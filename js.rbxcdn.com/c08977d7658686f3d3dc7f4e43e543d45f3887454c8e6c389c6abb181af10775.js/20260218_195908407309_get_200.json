@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:08.161353",
+      "end": "2026-02-18T19:59:08.404451",
+      "duration_ms": 243
+    },
+    "url": {
+      "full": "https://js.rbxcdn.com/c08977d7658686f3d3dc7f4e43e543d45f3887454c8e6c389c6abb181af10775.js",
+      "protocol": "https",
+      "domain": "js.rbxcdn.com",
+      "path": "/c08977d7658686f3d3dc7f4e43e543d45f3887454c8e6c389c6abb181af10775.js",
+      "normalized_path": "/c08977d7658686f3d3dc7f4e43e543d45f3887454c8e6c389c6abb181af10775.js",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 480,
+      "compressed": true
+    },
+    "content_type": "application/javascript",
+    "cache_status": "public, max-age=31536000"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=2"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/javascript",
+      "date": "Tue, 19 Aug 2025 19:09:47 GMT",
+      "last-modified": "Wed, 10 Jan 2024 00:47:49 GMT",
+      "content-encoding": "gzip",
+      "x-amz-server-side-encryption": "AES256",
+      "cache-control": "public, max-age=31536000",
+      "x-amz-version-id": "apyIhxDwLhdMTbaFelyoGnkU_9uLu1_p",
+      "server": "AmazonS3",
+      "etag": "W/\"1b37fb5023e35f9d23e93cb12c40f047\"",
+      "vary": "accept-encoding, Origin",
+      "x-cache": "Hit from cloudfront",
+      "via": "1.1 1b7c94274bd830ddf26396883b21ed8a.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P1",
+      "x-amz-cf-id": "X6R_FizvB3gH94rohaWX5KocSluLXN_Dg8zoiua7t2ffEkYY-40XZQ==",
+      "age": "15785362",
+      "rbx-cdn-provider": "aws",
+      "timing-allow-origin": "*",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0,\"failure_fraction\":0.05,\"response_headers\":[\"Rbx-Cdn-Provider\",\"vary\"]}",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P1\",cdn-rid;desc=\"X6R_FizvB3gH94rohaWX5KocSluLXN_Dg8zoiua7t2ffEkYY-40XZQ==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=0"
+    },
+    "body": "var Roblox = Roblox || {};\nRoblox.LangDynamic = Roblox.LangDynamic || {};\nRoblox.LangDynamic[\"Feature.RobloxCredit\"] = {\"Heading.RobloxCredit\":\"Roblox credit\",\"Label.CurrentBalance\":\"Current Balance: ${balance}\",\"Action.ConvertToRobux\":\"Convert To Robux\",\"Heading.GetRobux\":\"Get Robux\",\"Action.Redeem\":\"Redeem\",\"Description.ConfirmRobloxCreditToRobuxRedemption\":\"Redeem your {balance} Roblox credit to {iconRobux} {robuxAmount}\",\"Message.RobloxCreditToRobuxRedemptionConfirmation\":\"You've successfully redeemed {robuxAmount} Robux!\",\"Message.FailedGrantingRobux\":\"We\u00e2\u0080\u0099ve credited your Roblox credits, but there was an issue processing your Robux grant. Please contact customer support to get your Robux.\",\"Message.FailedDebitRobloxCredit\":\"There has been an issue processing your Roblox credit. Please try again later!\",\"Action.BuyRobux\":\"Buy Robux\",\"Label.LocalizedCurrentBalance\":\"Current Balance:\"};\nwindow.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected(\"DynamicLocalizationResourceScript_Feature.RobloxCredit\");\n"
+  }
+}

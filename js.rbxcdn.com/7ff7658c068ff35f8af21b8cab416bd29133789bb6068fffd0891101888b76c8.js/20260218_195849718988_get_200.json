@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:58:49.621269",
+      "end": "2026-02-18T19:58:49.716989",
+      "duration_ms": 95
+    },
+    "url": {
+      "full": "https://js.rbxcdn.com/7ff7658c068ff35f8af21b8cab416bd29133789bb6068fffd0891101888b76c8.js",
+      "protocol": "https",
+      "domain": "js.rbxcdn.com",
+      "path": "/7ff7658c068ff35f8af21b8cab416bd29133789bb6068fffd0891101888b76c8.js",
+      "normalized_path": "/7ff7658c068ff35f8af21b8cab416bd29133789bb6068fffd0891101888b76c8.js",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 1865,
+      "compressed": true
+    },
+    "content_type": "application/javascript",
+    "cache_status": "public, max-age=17996821"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=2"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "x-amz-id-2": "phGV0e6NN3eij/nUN9xXYiLwQxt0AFYXkn2FgNO0Skb4+sP88JGffPjU5OzCYHo6bQT2L+DXrEw=",
+      "x-amz-request-id": "8Q51CRTQ89E1E0W7",
+      "last-modified": "Tue, 08 Oct 2024 20:54:30 GMT",
+      "etag": "\"2bedf66c2d50fcf175085229c4126d62\"",
+      "x-amz-server-side-encryption": "AES256",
+      "x-amz-version-id": "8JtXY8vqkaYuHNCN9lBrec7Du5VexQn.",
+      "accept-ranges": "bytes",
+      "content-type": "application/javascript",
+      "server": "AmazonS3",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "cache-control": "public, max-age=17996821",
+      "date": "Wed, 18 Feb 2026 11:58:51 GMT",
+      "content-length": "1865",
+      "akamai-request-bc": "[a=120.28.35.55,b=129034317,c=g,n=PH_00_MANDALUYONG,o=4775]",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0,\"failure_fraction\":0.05}",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "rbx-cdn-provider": "ak",
+      "access-control-expose-headers": "Rbx-Cdn-Provider,Akamai-Request-BC",
+      "access-control-allow-origin": "*"
+    },
+    "body": "var Roblox = Roblox || {};\nRoblox.LangDynamic = Roblox.LangDynamic || {};\nRoblox.LangDynamic[\"Feature.Messages\"] = {\"Heading.NewMessages\":\"New Message\",\"Heading.Response\":\"Responses:\",\"Label.Select\":\"Select...\",\"Action.Back\":\"Back\",\"Action.Discard\":\"Discard\",\"Action.Send\":\"Send\",\"Message.WriteYourMessage\":\"Write your message...\",\"Message.RobloxWarning\":\"Remember, Roblox staff will never ask you for your password. People who ask for your password are trying to steal your account.\",\"Heading.Message\":\"Messages\",\"Label.Of\":\"Of\",\"Label.All\":\"All\",\"Label.IncludeMessage\":\"Include Previous Message\",\"Label.NoMessagesInCategory\":\"You have no {activeTab} messages.\",\"Label.Inbox\":\"Inbox\",\"Label.Sent\":\"Sent\",\"Label.News\":\"News\",\"Label.Archive\":\"Archive\",\"Action.Archive\":\"Archive\",\"Action.MoveToInbox\":\"Move To Inbox\",\"Action.MarkAsRead\":\"Mark As Read\",\"Action.MarkAsUnread\":\"Mark As Unread\",\"Action.Reply\":\"Reply\",\"Action.ReportAbuse\":\"Report Abuse\",\"Action.SendReply\":\"Send Reply\",\"Message.UnknownError\":\"Unknown error\",\"Message.ReplyHere\":\"Reply here...\",\"Message.NoNews\":\"You have no news.\",\"Message.IdTheftWarning\":\"Remember, Roblox staff will never ask you for your password. People who ask for your password are trying to steal your account.\",\"Message.NoRecipient\":\"Recipient doesn't exist!\",\"Message.NoMessageExist\":\"Message doesn't exist\",\"Message.NotAuthorizeToManipulate\":\"Not authorized to manipulate message\",\"Message.SendTooManyMessages\":\"You're sending too many messages too quickly.\",\"Message.BodyTooLong\":\"Please shorten your message to {maxLength} characters or less and try again.\",\"Message.BodyCantBlank\":\"The message body can't be blank.\",\"Message.SubjectCantBlank\":\"The message subject can't be blank.\",\"Message.SendSuccessfully\":\"Successfully sent message.\",\"Message.RecipientPrivacySettingsTooHigh\":\"The recipient's privacy settings prevent you from sending this message.\",\"Message.NotSendAndModerated\":\"Your message was not sent because it was moderated.\",\"Message.GeneralError\":\"Sorry, an error occurred sending your message.\",\"Message.SenderPrivacySettingTooHeight\":\"Your {frontLink}privacy settings{endLink} prevent you from sending this message.\",\"Message.VerifySenderEmail\":\"You must verify your email on the {frontLink}Account Settings{endLink} page before you can send messages.\",\"Label.To\":\"To:\",\"Label.Subject\":\"Subject:\",\"Message.UnknownMessageType\":\"A message cannot be displayed\",\"Description.MonthlyMessageBody\":\"The transaction history for this account can be found {htmlBoldOpen}{htmlAHrefTransactionsPage}here{htmlCloseAHref}{htmlBoldClose}.{lineBreak}{lineBreak}You are receiving this notification of monthly activities because your child is under the age of 18. You can find more information in your parental preferences associated with playtime and transactions.{lineBreak}{lineBreak}Roblox is a game that has many mini experiences in different genres such as role playing, sports, action, and many more.{lineBreak}{lineBreak}Roblox pricing policy is a freemium model with in-game purchases.{lineBreak}{lineBreak}{htmlContentRatingLogoImages}{lineBreak}{lineBreak}Thank you,{lineBreak}The Roblox Team{lineBreak}{lineBreak}Please do not reply to this message as it will not be delivered to the originator.{lineBreak}{lineBreak}{htmlBoldOpen}{htmlAHrefAccountSafetyPage}Account Safety{htmlCloseAHref}{htmlBoldClose} | {htmlBoldOpen}{htmlAhrefSupportPage}Support{htmlCloseAHref}{htmlBoldClose}\",\"Description.MonthlyMessageSubject\":\"Monthly Summary for {username}\",\"Description.MonthlyEmailFooter\":\"Please do not reply to this message as it will not be delivered to the originator.\",\"Description.MonthlyEmailBody\":\"The transaction history for this account can be found {htmlBoldOpen}{htmlAHrefTransactionsPage}here{htmlCloseAHref}{htmlBoldClose}.{lineBreak}{lineBreak}You are receiving this notification of monthly activities because your child is under the age of 18. You can find more information in your parental preferences associated with playtime and transactions.{lineBreak}{lineBreak}Roblox is a game that has many mini experiences in different genres such as role playing, sports, action, and many more.{lineBreak}{lineBreak}Roblox pricing policy is a freemium model with in-game purchases.{lineBreak}{lineBreak}{htmlContentRatingLogoImages}{lineBreak}{lineBreak}Thank you,{lineBreak}The Roblox Team\",\"Description.MonthlyEmailLinks\":\"{htmlAHrefAccountSafetyPage}Account Safety{htmlCloseAHref} | {htmlAhrefSupportPage}Support{htmlCloseAHref}\",\"Description.MonthlyEmailBodyWithPlaytime\":\"The transaction history for this account can be found {htmlBoldOpen}{htmlAHrefTransactionsPage}here{htmlCloseAHref}{htmlBoldClose}.{lineBreak}{lineBreak}The total time spent on Roblox in the last month was {hoursPlayed} hour(s).{lineBreak}{lineBreak}You are receiving this notification of monthly activities because your child is under the age of 18. You can find more information in your parental preferences associated with playtime and transactions.{lineBreak}{lineBreak}Roblox is a game that has many mini experiences in different genres such as role playing, sports, action, and many more.{lineBreak}{lineBreak}Roblox pricing policy is a freemium model with in-game purchases.{lineBreak}{lineBreak}{htmlContentRatingLogoImages}{lineBreak}{lineBreak}Thank you,{lineBreak}The Roblox Team\",\"Description.MonthlyMessageBodyWithPlaytime\":\"The transaction history for this account can be found {htmlBoldOpen}{htmlAHrefTransactionsPage}here{htmlCloseAHref}{htmlBoldClose}.{lineBreak}{lineBreak}The total time spent on Roblox in the last month was {hoursPlayed} hour(s).{lineBreak}{lineBreak}You are receiving this notification of monthly activities because your child is under the age of 18. You can find more information in your parental preferences associated with playtime and transactions.{lineBreak}{lineBreak}Roblox is a game that has many mini experiences in different genres such as role playing, sports, action, and many more.{lineBreak}{lineBreak}Roblox pricing policy is a freemium model with in-game purchases.{lineBreak}{lineBreak}{htmlContentRatingLogoImages}{lineBreak}{lineBreak}Thank you,{lineBreak}The Roblox Team{lineBreak}{lineBreak}Please do not reply to this message as it will not be delivered to the originator.{lineBreak}{lineBreak}{htmlBoldOpen}{htmlAHrefAccountSafetyPage}Account Safety{htmlCloseAHref}{htmlBoldClose} | {htmlBoldOpen}{htmlAhrefSupportPage}Support{htmlCloseAHref}{htmlBoldClose}\",\"Label.NoMessagesInArchive\":\"You have no archived messages.\",\"Label.NoMessagesInInbox\":\"You have no messages in your inbox.\",\"Label.NoSentMessages\":\"You have no sent messages.\",\"Banner.InboxMsgDepHeader\":\"Messages update\",\"Banner.InboxMsgDepBody\":\"Sending messages through this profile is being deprecated on October 7th. To continue communicating with friends, learn more about {aTagStartWithHref}{ChatDetailsLink}{hrefEnd}Chat.{aTagEnd}\",\"Banner.InboxMsgDepBodyV3\":\"We are sunsetting user to user communication within Inbox Messaging. Inbox will continue to be used for system messages from Roblox to users. We\u00e2\u0080\u0099ll share more on updated timing soon. Continue communicating with friends through {aTagStartWithHref}{ChatDetailsLink}{hrefEnd}Chat.{aTagEnd}\",\"Banner.InboxMsgDepBodyV4\":\"We are sunsetting user to user communication within Inbox Messaging on October 29. Inbox will continue to be used for system messages from Roblox to users. {aTagStartWithHref}{DepForumPostLink}{hrefEnd}Learn more.{aTagEnd}\"};\nwindow.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected(\"DynamicLocalizationResourceScript_Feature.Messages\");\n"
+  }
+}

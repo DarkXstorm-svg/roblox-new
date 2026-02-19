@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:03.243614",
+      "end": "2026-02-18T19:59:03.537954",
+      "duration_ms": 294
+    },
+    "url": {
+      "full": "https://sin6c2-128-116-46-3.roblox.com/_/_/1px.gif",
+      "protocol": "https",
+      "domain": "sin6c2-128-116-46-3.roblox.com",
+      "path": "/_/_/1px.gif",
+      "normalized_path": "/{slug}/_/1px.gif",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 43,
+      "compressed": false
+    },
+    "content_type": "image/gif",
+    "cache_status": "no-cache, no-store"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.roblox.com",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=1, i"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "access-control-allow-origin": "*",
+      "timing-allow-origin": "*",
+      "x-rblx-origin": "lb",
+      "cache-control": "no-cache, no-store",
+      "content-length": "43",
+      "content-type": "image/gif"
+    },
+    "body": "GIF89a\u0001\u0000\u0001\u0000\u0080\u0001\u0000\u0000\u0000\u0000\u00ff\u00ff\u00ff!\u00f9\u0004\u0001\u0000\u0000\u0001\u0000,\u0000\u0000\u0000\u0000\u0001\u0000\u0001\u0000\u0000\u0002\u0002L\u0001\u0000;"
+  }
+}

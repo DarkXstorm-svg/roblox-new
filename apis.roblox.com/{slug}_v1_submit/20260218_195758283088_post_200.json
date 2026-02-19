@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:57:57.813502",
+      "end": "2026-02-18T19:57:58.279585",
+      "duration_ms": 466
+    },
+    "url": {
+      "full": "https://apis.roblox.com/rotating-client-service/v1/submit",
+      "protocol": "https",
+      "domain": "apis.roblox.com",
+      "path": "/rotating-client-service/v1/submit",
+      "normalized_path": "/{slug}/v1/submit",
+      "query": {}
+    },
+    "method": "POST",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 4001,
+      "response_bytes": 89,
+      "compressed": false
+    },
+    "content_type": "application/json; charset=utf-8",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "content-length": "4001",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "x-csrf-token": "Df7Y4bzYSUur",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "content-type": "application/json-patch+json",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.roblox.com",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,, .ROBLOSECURITY=_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEaAhADIhwKBGR1aWQSFDE1OTA2NDcwMzY1NDI4MjU2MjQ3KAM.xpmWxSPlq0t9uEMRW5PZATvSqO4ZRcDpuXm3QmfIKp6xgv76-p4xSYZkFZbXRm6-GUSiw_hVJWODhKdk4tTkqbVnHKy_yyaFCxo32j-WAFHiOpMWpBhMyBapHtPI2TDaieMG9oxdFp0VeLKVDfRkgFFU9gZd5jPIT_44J83CJe_fxphtDk0mVnUmXQK9TY0aBRMmgmyXb0e4JALDO0zYWF9nachqvY45KGgzh6eTKE49bIWwMV4nIp_KQJXjcHHdGGrObJXSZ8nmAmT-q7sXqdVIL4-A75KPfKzfyeQTEwx-3NYbJ81Y9UH8_NE9hENbxd__tWB1gk0uL-jEtKJiJpFdBC4QuCaLjuInFGX1hlE3qWvLX3XazPzy2bmK15_k5zXNGrld_Dk11Fp7cwRg_CER8_luSF_HHQOQ57BPmVJT-XeTI0oAGRTYzn77zU1kLN0hTFzEM8tIZnE-Kesd1TqfEmfJ6L3057MSiRlWsexDuhMKa7jnBhAKpmZaXx0ql72S5f3hPFYLrg8k188iGf9c-XZ6XAN6swwoqzH2ENIq9dlDwMGkG6aLm6o3g4hEMjONOIpbTbCQLXst1Sq3ChMtivtevg96-GfONIURoIhe8QywGCwJZY4L_wAhrTmgukXa8syxqXx1LI4NUhNPrNcpY8-EurE9wuF-236hmGB2asKubEfft12Plu7tzkada-a9FLje5hdUtqxaqpTNX67WmyZxoHkvoC78Cx9N0Se3mZyZGA-F3ZplBf8XSWUBSvzgsQCHGHLGdq2RlB0oA3SAcVh0ou8XP-noPr3F5i0vhpuC, RBXSessionTracker=sessionid=48916139-b5c4-4354-8ed6-d5af7303de32, RBXEventTrackerV2=CreateDate=02/18/2026 05:57:43&rbxid=10533236298&browserid=1759587403750002",
+      "priority": "u=1, i"
+    },
+    "payload": "{\"userId\":\"10536399388\",\"challengeId\":\"us-central-c347340a-39c3-4c60-a17f-2cad43a9600c\",\"payloadV2\":\"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\",\"params\":{\"key\":\"qE4lxejswoHZfx2c7Y5o54yUTrO9rS6YklMW6z8mnmJWrGLjVg9ns1bnyFgumscmleqo50RPA7iN5m7vR8UX2UP22FOaVFhQgcmZ3I3y9//w8ZJHaTsF9/B2fJK7kbSaG2PCxcOAILux8mngPYaRH17A2eG3V9zwbaEFwkJ3cNs=\",\"iv\":\"HFhhYn3Wy58jnemo\"},\"btid\":\"1759587403750002\"}"
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/json; charset=utf-8",
+      "date": "Wed, 18 Feb 2026 11:57:58 GMT",
+      "server": "public-gateway",
+      "content-length": "89",
+      "roblox-machine-id": "a436bb08-bab6-faf2-5c76-b6faba4f61a4",
+      "x-envoy-upstream-service-time": "235",
+      "x-terms-message": "Terms apply https://rblx.co/TOU.",
+      "strict-transport-security": "max-age=3600",
+      "x-ratelimit-limit": "100, 100;w=60, 100;w=60, 100;w=60",
+      "x-ratelimit-remaining": "99",
+      "x-ratelimit-reset": "1",
+      "access-control-allow-origin": "https://www.roblox.com",
+      "access-control-allow-credentials": "true",
+      "vary": "Origin",
+      "x-ingress-proxy": "true",
+      "x-roblox-edge": "c117",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1}"
+    },
+    "body": "{\"userId\":0,\"challengeId\":null,\"payload\":null,\"payloadV2\":null,\"params\":null,\"btid\":null}"
+  }
+}

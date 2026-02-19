@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:58:52.084342",
+      "end": "2026-02-18T19:58:52.429229",
+      "duration_ms": 344
+    },
+    "url": {
+      "full": "https://privatemessages.roblox.com/v1/messages?messageTab=inbox&pageNumber=0&pageSize=20",
+      "protocol": "https",
+      "domain": "privatemessages.roblox.com",
+      "path": "/v1/messages",
+      "normalized_path": "/{slug}/messages",
+      "query": {
+        "messageTab": [
+          "inbox"
+        ],
+        "pageNumber": [
+          "0"
+        ],
+        "pageSize": [
+          "20"
+        ]
+      }
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 1768,
+      "compressed": true
+    },
+    "content_type": "application/json; charset=utf-8",
+    "cache_status": "no-cache"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "cache-control": "no-cache, no-store, must-revalidate",
+      "pragma": "no-cache",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "expires": "0",
+      "x-bound-auth-token": "v1|47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=|1771415930|9wO3aUlmcu6HiCowZDNvmDP9B9E3iBBHG46P2Vz0yyuWSUUa7GRnlfcEgehTXzb7yjbw0uMY4w4gB+IapX5eqg==|vz3bqN1yHaI3HMfGuf0QgfKBcCdB+qzrgy3LcfXoWa8XLp0nuA4tFX1X5SjwXdqDPwYe2QxxNTNBfKlqU3AtXw==",
+      "accept": "application/json, text/plain, */*",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "origin": "https://www.roblox.com",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,, .ROBLOSECURITY=_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEaAhADIhwKBGR1aWQSFDE1OTA2NDcwMzY1NDI4MjU2MjQ3KAM.xpmWxSPlq0t9uEMRW5PZATvSqO4ZRcDpuXm3QmfIKp6xgv76-p4xSYZkFZbXRm6-GUSiw_hVJWODhKdk4tTkqbVnHKy_yyaFCxo32j-WAFHiOpMWpBhMyBapHtPI2TDaieMG9oxdFp0VeLKVDfRkgFFU9gZd5jPIT_44J83CJe_fxphtDk0mVnUmXQK9TY0aBRMmgmyXb0e4JALDO0zYWF9nachqvY45KGgzh6eTKE49bIWwMV4nIp_KQJXjcHHdGGrObJXSZ8nmAmT-q7sXqdVIL4-A75KPfKzfyeQTEwx-3NYbJ81Y9UH8_NE9hENbxd__tWB1gk0uL-jEtKJiJpFdBC4QuCaLjuInFGX1hlE3qWvLX3XazPzy2bmK15_k5zXNGrld_Dk11Fp7cwRg_CER8_luSF_HHQOQ57BPmVJT-XeTI0oAGRTYzn77zU1kLN0hTFzEM8tIZnE-Kesd1TqfEmfJ6L3057MSiRlWsexDuhMKa7jnBhAKpmZaXx0ql72S5f3hPFYLrg8k188iGf9c-XZ6XAN6swwoqzH2ENIq9dlDwMGkG6aLm6o3g4hEMjONOIpbTbCQLXst1Sq3ChMtivtevg96-GfONIURoIhe8QywGCwJZY4L_wAhrTmgukXa8syxqXx1LI4NUhNPrNcpY8-EurE9wuF-236hmGB2asKubEfft12Plu7tzkada-a9FLje5hdUtqxaqpTNX67WmyZxoHkvoC78Cx9N0Se3mZyZGA-F3ZplBf8XSWUBSvzgsQCHGHLGdq2RlB0oA3SAcVh0ou8XP-noPr3F5i0vhpuC, RBXSessionTracker=sessionid=48916139-b5c4-4354-8ed6-d5af7303de32, RBXEventTrackerV2=CreateDate=02/18/2026 05:57:43&rbxid=10533236298&browserid=1759587403750002",
+      "priority": "u=1, i"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/json; charset=utf-8",
+      "date": "Wed, 18 Feb 2026 11:58:53 GMT",
+      "server": "public-gateway",
+      "cache-control": "no-cache",
+      "content-encoding": "gzip",
+      "vary": "Accept-Encoding,Origin",
+      "strict-transport-security": "max-age=31536000, max-age=3600",
+      "x-frame-options": "SAMEORIGIN",
+      "roblox-machine-id": "595ee8a2-1ae1-89a5-f452-cea6b0db2f2a",
+      "x-envoy-upstream-service-time": "223",
+      "x-terms-message": "Terms apply https://rblx.co/TOU.",
+      "x-ratelimit-limit": "120, 120;w=60, 120;w=60, 120;w=60",
+      "x-ratelimit-remaining": "119",
+      "x-ratelimit-reset": "7",
+      "access-control-allow-origin": "https://www.roblox.com",
+      "access-control-allow-credentials": "true",
+      "x-ingress-proxy": "true",
+      "x-roblox-edge": "c118",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1}"
+    },
+    "body": "{\"collection\":[{\"id\":3257099220594157,\"sender\":{\"hasVerifiedBadge\":true,\"id\":1,\"name\":\"Roblox\",\"displayName\":\"Roblox\"},\"recipient\":{\"hasVerifiedBadge\":false,\"id\":10536399388,\"name\":\"dasdsadasdsawas\",\"displayName\":\"dasdsadasdsawas\"},\"subject\":\"Access to new features on Roblox\",\"body\":\"The age of the user on this Roblox account will soon be 9 years old. By default, users over the age of 9 can access additional features, such as:<ul><li> - Content with a maturity rating of <b>Moderate</b></li><li> - Certain in-experience chat features, after completing an <a href='https://help.roblox.com/hc/articles/39143693116052'>age check</a></li></ul><br><br><a href='https://help.roblox.com/hc/articles/30428367965460'>Learn more</a> about features available to users over the age of 9. If you and your parent have not previously modified these settings, your settings will be updated to allow access to these and other features.<br><br>If the age on your account is incorrect, please update your age in <a href='https://www.roblox.com/my/account#!/info'>Settings > Account Info</a>. Note that you may need a parent to approve the update to your age. Otherwise, no further action is required.<br><br>Thanks,<br>Roblox\",\"created\":\"2026-02-18T11:18:51.04Z\",\"updated\":\"2026-02-18T11:18:51.04Z\",\"isRead\":false,\"isSystemMessage\":true,\"isReportAbuseDisplayed\":false},{\"id\":1712100487771024,\"sender\":{\"hasVerifiedBadge\":true,\"id\":1,\"name\":\"Roblox\",\"displayName\":\"Roblox\"},\"recipient\":{\"hasVerifiedBadge\":false,\"id\":10536399388,\"name\":\"dasdsadasdsawas\",\"displayName\":\"dasdsadasdsawas\"},\"subject\":\"Welcome to Roblox!\",\"body\":\"<span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">Hello, and welcome to Roblox\u2014a platform for people all over the world to connect, share experiences, and express themselves in immersive digital environments, all made by users just like you.</span></font></span>\\r<br />\\r<br /><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">Before you jump in and start exploring, here are a few tips:</span></font></span>\\r<br />\\r<br /><p align=\\\"justify\\\" style=\\\"margin: 0px;\\\"><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">A safe, kind, and positive community is our top priority. To ensure you have the best possible experience, configure your </span></font></span><a href=\\\"https://www.roblox.com/my/account#!/security\\\"><span style=\\\"color:#1155cc\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\"><strong>security and privacy settings </strong></span></font></span></a><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">and be sure to review our </span></font></span><a href=\\\"https://en.help.roblox.com/hc/en-us/articles/203313410\\\"><span style=\\\"color:#1155cc\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\"><strong>rules and account safety tips</strong></span></font></span></a><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">.</span></font></span></p>\\r<br />\\r<br /><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">There are endless ways to </span></font></span><a href=\\\"https://en.help.roblox.com/hc/en-us/articles/203313600\\\"><span style=\\\"color:#1155cc\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\"><strong>customize your avatar </strong></span></font></span></a><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">with accessories, faces, emotes, and more. After you\u2019ve set up your avatar, check out some of the </span></font></span><span style=\\\"color:#1155cc\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\"><strong><a href=\\\"https://www.roblox.com/charts#/sortName/Most_engaging_V4?country=all&amp;device=computer\\\">most popular experiences</a>&#160;<a href=\\\"https://www.roblox.com/games/?SortFilter=1&amp;TimeFilter=0&amp;GenreFilter=1#/sortName/PopularInCountry\\\"></a></strong></span></font></span><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">from the community!</span></font></span>\\r<br />\\r<br /><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">Roblox is even better with friends. You can chat with them or invite them into your sessions at any time, even if they\u2019re accessing Roblox on a different device than yours.&#160;</span></font></span>\\r<br />\\r<br /><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">That\u2019s all there is to it. Enjoy!</span></font></span>\\r<br />\\r<br /><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">Sincerely,</span></font></span>\\r<br />\\r<br /><span style=\\\"color:#000000\\\"><font size=\\\"2\\\"><span style=\\\"font-family: Arial\\\">Builderman, CEO of Roblox</span></font></span>\",\"created\":\"2026-02-18T11:18:45.974Z\",\"updated\":\"2026-02-18T11:18:45.974Z\",\"isRead\":false,\"isSystemMessage\":true,\"isReportAbuseDisplayed\":false}],\"totalCollectionSize\":2,\"totalPages\":1,\"pageNumber\":0}"
+  }
+}

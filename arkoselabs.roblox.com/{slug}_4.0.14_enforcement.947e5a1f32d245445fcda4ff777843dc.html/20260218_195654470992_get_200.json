@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:56:54.404298",
+      "end": "2026-02-18T19:56:54.467798",
+      "duration_ms": 63
+    },
+    "url": {
+      "full": "https://arkoselabs.roblox.com/v2/4.0.14/enforcement.947e5a1f32d245445fcda4ff777843dc.html",
+      "protocol": "https",
+      "domain": "arkoselabs.roblox.com",
+      "path": "/v2/4.0.14/enforcement.947e5a1f32d245445fcda4ff777843dc.html",
+      "normalized_path": "/{slug}/4.0.14/enforcement.947e5a1f32d245445fcda4ff777843dc.html",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 977,
+      "compressed": false
+    },
+    "content_type": "text/html; charset=utf-8",
+    "cache_status": "public, max-age=31536000, immutable"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "navigate",
+      "sec-fetch-user": "?1",
+      "sec-fetch-dest": "iframe",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, RBXEventTrackerV2=CreateDate=10/04/2025 09:19:06&rbxid=7108482020&browserid=1759587403750002, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,",
+      "priority": "u=0, i"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "977",
+      "date": "Tue, 17 Feb 2026 03:27:09 GMT",
+      "last-modified": "Tue, 17 Feb 2026 03:26:52 GMT",
+      "etag": "\"fc9ec0434f7f06c096bf040a09a4a091\"",
+      "x-amz-server-side-encryption": "AES256",
+      "accept-ranges": "bytes",
+      "server": "cloudfront",
+      "via": "1.1 3eafd911617df6700f1357b2dcc7380c.cloudfront.net (CloudFront)",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "age": "116987",
+      "x-xss-protection": "1; mode=block",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "accept-ch": "Device-Memory, Sec-CH-UA, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-DPR, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-Viewport-Width, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Width, Sec-CH-UA-Form-Factors",
+      "vary": "Origin",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P2\",cdn-rid;desc=\"Qs7cJIMUh80_2q1wJA8-P2p8ObaZJez8DgtvRTiALrNS77cDKbvoBw==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=3",
+      "cache-control": "public, max-age=31536000, immutable",
+      "capi-worker-type": "cloudfront",
+      "cf-request-time": "1",
+      "content-security-policy": "connect-src 'self' *.arkoselabs.com *.funcaptcha.com *.arkoselabs.cn *.arkose.com.cn; font-src 'self' *.arkoselabs.com *.funcaptcha.com *.arkoselabs.cn *.arkose.com.cn; frame-src 'self' *.arkoselabs.com *.funcaptcha.com *.arkoselabs.cn *.arkose.com.cn; img-src 'self' *.arkoselabs.com *.funcaptcha.com *.arkoselabs.cn *.arkose.com.cn data:; script-src 'self' *.arkoselabs.com *.funcaptcha.com *.arkoselabs.cn *.arkose.com.cn;",
+      "permissions-policy": "accelerometer=*, autoplay=*, camera=*, display-capture=*, encrypted-media=*, fullscreen=*, geolocation=*, gyroscope=*, midi=*, payment=*, picture-in-picture=*, sync-xhr=*, usb=*",
+      "timing-allow-origin": "*",
+      "x-cache": "Hit from cloudfront",
+      "x-amz-cf-pop": "MNL51-P2",
+      "x-amz-cf-id": "Qs7cJIMUh80_2q1wJA8-P2p8ObaZJez8DgtvRTiALrNS77cDKbvoBw=="
+    },
+    "body": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"Content-Security-Policy\" content=\"style-src 'self' 'nonce-2ccdd006-dd98-43df-a726-85bdc82f5ad4'; default-src 'self' data: client-api.arkoselabs.com client-api.funcaptcha.com client-api.arkoselabs.cn client-api.arkose.com.cn cdn.arkoselabs.com cdn.funcaptcha.com;\"><meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\"><style nonce=\"2ccdd006-dd98-43df-a726-85bdc82f5ad4\">html, body { margin: 0; padding: 0; height: 100%; }\n      * { box-sizing: border-box; }\n      #app { height: 100%; overflow: hidden; }</style></head><body><div id=\"app\"></div><script type=\"text/javascript\" id=\"enforcementScript\" src=\"enforcement.947e5a1f32d245445fcda4ff777843dc.js\" crossorigin=\"anonymous\" integrity=\"sha384-DdTNb93/NkZLUF5Z1uCRGmuRiwvk+TSn9i9EeS2A/cU/giubWFnf0U4p8EKEm/ih\" data-nonce=\"2ccdd006-dd98-43df-a726-85bdc82f5ad4\"></script></body></html>"
+  }
+}

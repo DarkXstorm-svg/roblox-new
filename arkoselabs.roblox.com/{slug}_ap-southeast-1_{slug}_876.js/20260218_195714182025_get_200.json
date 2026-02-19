@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:57:13.936549",
+      "end": "2026-02-18T19:57:14.180471",
+      "duration_ms": 243
+    },
+    "url": {
+      "full": "https://arkoselabs.roblox.com/dapib/ap-southeast-1/45cb63bd-789a-417a-91a4-1eb62a7ceb2c/876.js?expiry=1771417619869&mac=hBJOiKjiydp8C8pP5qX9NWEU731SA2zcl6T4Eju99qs%3D",
+      "protocol": "https",
+      "domain": "arkoselabs.roblox.com",
+      "path": "/dapib/ap-southeast-1/45cb63bd-789a-417a-91a4-1eb62a7ceb2c/876.js",
+      "normalized_path": "/{slug}/ap-southeast-1/{slug}/876.js",
+      "query": {
+        "expiry": [
+          "1771417619869"
+        ],
+        "mac": [
+          "hBJOiKjiydp8C8pP5qX9NWEU731SA2zcl6T4Eju99qs="
+        ]
+      }
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 1310,
+      "compressed": true
+    },
+    "content_type": "application/javascript; charset=UTF-8",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "origin": "https://arkoselabs.roblox.com",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://arkoselabs.roblox.com/fc/assets/ec-game-core/game-core/1.31.3/standard/index.html?session=4881895554c448373.7161280104&r=ap-southeast-1&meta=3&metabgclr=transparent&metaiconclr=%23757575&maintxtclr=%23b8b8b8&guitextcolor=%23474747&pk=476068BF-9607-4799-B53D-966BE98E2B81&at=40&rid=94&ag=101&cdn_url=https%3A%2F%2Farkoselabs.roblox.com%2Fcdn%2Ffc&surl=https%3A%2F%2Farkoselabs.roblox.com&smurl=https%3A%2F%2Farkoselabs.roblox.com%2Fcdn%2Ffc%2Fassets%2Fstyle-manager",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, RBXEventTrackerV2=CreateDate=10/04/2025 09:19:06&rbxid=7108482020&browserid=1759587403750002, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,, timestamp=177141500829313"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/javascript; charset=UTF-8",
+      "server": "cloudfront",
+      "date": "Wed, 18 Feb 2026 11:57:15 GMT",
+      "vary": "Accept-Encoding",
+      "access-control-allow-origin": "*",
+      "content-security-policy": "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; media-src 'self' data:; connect-src 'self'",
+      "content-encoding": "gzip",
+      "x-cache": "Miss from cloudfront",
+      "via": "1.1 3eafd911617df6700f1357b2dcc7380c.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P2",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-amz-cf-id": "OfW0FUexB15eRDyQVJjR7hy6j6U320qBggvrmQVtbXJueDCOLOMrGg==",
+      "x-xss-protection": "1; mode=block",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "accept-ch": "Device-Memory, Sec-CH-UA, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-DPR, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-Viewport-Width, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Width, Sec-CH-UA-Form-Factors"
+    },
+    "body": "(function(){const p={'nTcvz':function(Q,v){return Q+v;},'joksy':function(Q,v){return Q/v;},'HUmts':function(Q,v,w){return Q(v,w);},'CiHYe':function(Q,v){return Q(v);},'ceAqc':'prerender','sNqSt':function(Q,v){return Q===v;},'dNLfK':function(Q,v){return Q instanceof v;},'wiRTA':function(Q,v,w){return Q(v,w);}},L=(function(){let Q=!![];return function(v,w){const i=Q?function(){if(w){const X=w['apply'](v,arguments);return w=null,X;}}:function(){};return Q=![],i;};}());function x(tanswer){window['parent']['ae']['dapibRecei'+'ve']({'tanswer':tanswer});}function q(answers){const Q={'Hadsu':function(X,b){return X<b;},'DYfuQ':function(X,b){return X==b;}};let v=answers;v=v['map'](X=>{const b=X;return Object['keys'](X)['forEach'](I=>{const D=X[I];let z=D['replace'](/[^a-zA-Z0-9_$]/g,'');!/^[a-zA-Z_$]/['test'](z)&&(z='_'+z),b[z]=I;}),b;});function w(X){const I=X-0x23,D=Math['pow'](I,0x2),z=p['nTcvz'](D,0x11),n=p['joksy'](z,0x2),y=Math['floor'](n),o=y%0x65,W=o+0x23;return W;}v=v['map'](X=>{const b=X;return Object['keys'](X)['forEach'](I=>{const D=X[I],z=D['split'](''),n=z['map'](y=>{const o=y['charCodeAt'](0x0),W=w(o);return String['fromCharCo'+'de'](W);});for(let y=0x4;y<n['length'];y+=0x5){n['splice'](y,0x0,'-');}b[I]=n['join']('');}),b;});function i(X,b){return{'value':X,'children':[],'parent':b,'J':function(I){const D=i(I,this);return this['children']['push'](D),D;}};}v=v['map'](X=>{const b=X;return Object['keys'](X)['forEach'](I=>{const D=X[I],z=D['split']('')['map'](m=>m['charCodeAt'](0x0)),n=new i(0x0);let y=n;for(let m=0x0;m<z['length'];m++){const M=z[m];M%0x2==0x1&&(y['parent']&&(y=y['parent']),y['parent']&&(y=y['parent'])),y=y['J'](M);}const o=[n],W=[];while(o['length']>0x0){const Y=o['shift']();W['push'](Y['value']),o['push'](...Y['children']);}const V=W['map'](A=>A['toString']())['join']('');b[I+'tr']=V;}),b;});function i(X,b){return{'value':X,'children':[],'parent':b,'J':function(I){const D=i(I,this);return this['children']['push'](D),D;}};}return v=v['map'](X=>{const b=X;return Object['keys'](X)['forEach'](I=>{const D=X[I],z=D['split']('')['map'](m=>m['charCodeAt'](0x0)),n=new i(0x0);let y=n;for(let m=0x0;Q['Hadsu'](m,z['length']);m++){const M=z[m];Q['DYfuQ'](M%0x2,0x1)&&(y['parent']&&(y=y['parent']),y['parent']&&(y=y['parent'])),y=y['J'](M);}const o=[n],W=[];while(o['length']>0x0){const Y=o['shift']();W['push'](Y['value']),o['push'](...Y['children']);}const V=W['map'](A=>A['toString']())['join']('');b[I+'tr']=V;}),b;}),v;}function U(Q,v){const w=p['HUmts'](L,this,function(){return w['toString']()['search']('(((.+)+)+)'+'+$')['toString']()['constructo'+'r'](w)['search']('(((.+)+)+)'+'+$');});w();const i=Q['map'](b=>{const I=b;return Object['keys'](b)['forEach'](D=>{const z=b[D]['toString']();I[D]=b[D]['toString']();}),I;});let X=q(i);return X=X['map'](answer=>{const ianswer=answer;return Object['keys'](answer)['forEach'](b=>{let I=ianswer[b];I=I+(v?v:''),ianswer[b]=I;}),ianswer;}),p['CiHYe'](x,X);}try{var N=window['document'],P=undefined;(Object['prototype']['toString']['call'](typeof process!=='undefined'?process:0x0)==='[object\\x20pr'+'ocess]'||N['hidden']&&N['visibility'+'State']===p['ceAqc']&&p['sNqSt'](typeof window['requestAni'+'mationFram'+'e'],'undefined')&&typeof window['cancelAnim'+'ationFrame']==='undefined'||!p['dNLfK'](N['activeElem'+'ent'],Object))&&(P=String['fromCharCo'+'de'](p['nTcvz'](Math['random']()*0x1a,0x41)));const answer=window['parent']['ae']['answer'];p['wiRTA'](U,answer,P);}catch(Q){x(Q);}}());"
+  }
+}

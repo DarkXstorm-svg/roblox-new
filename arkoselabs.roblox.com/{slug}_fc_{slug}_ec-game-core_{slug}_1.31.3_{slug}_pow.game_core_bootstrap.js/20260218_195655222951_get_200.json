@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:56:55.135957",
+      "end": "2026-02-18T19:56:55.220203",
+      "duration_ms": 84
+    },
+    "url": {
+      "full": "https://arkoselabs.roblox.com/cdn/fc/assets/ec-game-core/bootstrap/1.31.3/standard/pow.game_core_bootstrap.js",
+      "protocol": "https",
+      "domain": "arkoselabs.roblox.com",
+      "path": "/cdn/fc/assets/ec-game-core/bootstrap/1.31.3/standard/pow.game_core_bootstrap.js",
+      "normalized_path": "/{slug}/fc/{slug}/ec-game-core/{slug}/1.31.3/{slug}/pow.game_core_bootstrap.js",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 427,
+      "compressed": false
+    },
+    "content_type": "application/javascript",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "same-origin",
+      "sec-fetch-dest": "worker",
+      "referer": "https://arkoselabs.roblox.com/v2/4.0.14/enforcement.947e5a1f32d245445fcda4ff777843dc.html",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, RBXEventTrackerV2=CreateDate=10/04/2025 09:19:06&rbxid=7108482020&browserid=1759587403750002, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,",
+      "priority": "u=4, i"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/javascript",
+      "content-length": "427",
+      "last-modified": "Fri, 31 Oct 2025 07:22:37 GMT",
+      "x-amz-server-side-encryption": "AES256",
+      "x-amz-version-id": "MPrVeiwXUF4naQ_VHtVTEw3XxhwYulPp",
+      "accept-ranges": "bytes",
+      "server": "cloudfront",
+      "date": "Tue, 17 Feb 2026 23:40:55 GMT",
+      "etag": "\"60e0160362e5062869e252f1b5d76c37\"",
+      "vary": "accept-encoding",
+      "via": "1.1 3eafd911617df6700f1357b2dcc7380c.cloudfront.net (CloudFront)",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "age": "44162",
+      "x-xss-protection": "1; mode=block",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "accept-ch": "Device-Memory, Sec-CH-UA, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-DPR, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-Viewport-Width, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Width, Sec-CH-UA-Form-Factors",
+      "content-security-policy": "default-src 'self'; script-src 'self' 'nonce-krdQ2LKmBuZaAHJMxBw28g'; style-src 'self' 'nonce-krdQ2LKmBuZaAHJMxBw28g'; img-src 'self' cdn.funcaptcha.com cdn.arkoselabs.com blob: data:; media-src 'self' blob: data:; connect-src 'self'",
+      "x-cache": "Hit from cloudfront",
+      "x-amz-cf-pop": "MNL51-P2",
+      "x-amz-cf-id": "2y4c3wvCXkcFRv8G-vXDVZ1aEET7dazIkCRTXEBdM0an_L5FytPdgg=="
+    },
+    "body": "/*! bootstrap_1.31.3 */!function(){\"use strict\";self.onmessage=function(t){var s={hasCrypto:!1,hasSubtle:!1,hasWebkitSubtle:!1};s.hasCrypto=void 0!==self.crypto&&void 0!==self.crypto.getRandomValues,s.hasCrypto&&void 0!==self.crypto.subtle&&(s.hasSubtle=!0),s.hasCrypto&&void 0!==self.crypto.webkitSubtle&&(s.hasWebkitSubtle=!0);var e=s.hasCrypto&&(s.hasSubtle||s.hasWebkitSubtle);self.postMessage({details:s,supported:e})}}();"
+  }
+}

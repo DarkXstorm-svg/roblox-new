@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:58:45.015993",
+      "end": "2026-02-18T19:58:45.267459",
+      "duration_ms": 251
+    },
+    "url": {
+      "full": "https://safebrowsing.google.com/safebrowsing/clientreport/realtime",
+      "protocol": "https",
+      "domain": "safebrowsing.google.com",
+      "path": "/safebrowsing/clientreport/realtime",
+      "normalized_path": "/{slug}/clientreport/realtime",
+      "query": {}
+    },
+    "method": "POST",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 529,
+      "response_bytes": 51,
+      "compressed": false
+    },
+    "content_type": "application/octet-stream",
+    "cache_status": "private"
+  },
+  "request": {
+    "headers": {
+      "content-length": "529",
+      "content-type": "application/octet-stream",
+      "sec-fetch-site": "none",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "empty",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "cookie": "NID=529=JJCtZcXysYbzsxnfYNwNAvKdaCKgxA7UodzIhkBKrxPUU2Sa64vZF2-dfj-2gskNAdGXYZqepOPN9ckKWNAxv5dFVfS8dhCYCm6DtGhlMnjF40mPVkz7cKcArFxsfCOeJ68qkw8uPjuxqZEPJxEBf3HjH2u_E7f63GVu3Iq1s4jkaM2tZleb7Ej2uiQOCegtDRf57pRwiHRhyMssQw",
+      "priority": "u=4, i"
+    },
+    "payload": "\n0https://www.roblox.com/users/10536399388/profile\u0010\u0001\u001a^\b\u0003\u0010\u0000(\u00010\u00008\u0000@\u0000J\u001cChrome/144.0.7559.90/AndroidP\u0001X\u0001r+\b\u0001\u0010\u0087\u00dd\u00f7\u0084\u00c73\u001a \u00fd\u0011\u00bb\u008aw\u0014\u00ea\u0015\u0016\u00fd7\u00b8\u00cf\t\u00e9h\u00e3G\u0084\u007f?\u008e\u001b]\u00bf\u00b6o\u00ed\u00c5\u00f2f]\u0090\u0001\u00000\u00048\u0001B\u0086\u0001\n0https://www.roblox.com/users/10536399388/profile\u0010\u0001\u001a\r10.161.87.241\"0https://www.roblox.com/users/10536399388/profile0\u00019\u0000@\u00e7\u00de\t\u00c7yBP\u0003X\u0000p\u0000By\n0https://www.roblox.com/users/10536399388/profile\u0010\u0002\u001a\r10.161.87.241\"#https://www.roblox.com/transactions0\u00009\u0000\u00d0\u00b1\u00d6\t\u00c7yBP\u0003X\u0000p\u0000BG\n#https://www.roblox.com/transactions\u0010\u0003\u001a\r10.161.87.2410\u00009\u0000\u00c0j\u00d4\t\u00c7yBP\u0003X\u0000p\u0000H\u0002P\u0001z&\b\u0003\u0012\"android-app://com.android.launcher"
+  },
+  "response": {
+    "headers": {
+      "p3p": "CP=\"This is not a P3P policy! See g.co/p3phelp for more info.\"",
+      "content-type": "application/octet-stream",
+      "vary": "Origin, X-Origin, Referer",
+      "date": "Wed, 18 Feb 2026 11:58:46 GMT",
+      "server": "ESF",
+      "content-length": "51",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "set-cookie": "NID=529=2b0y2kQP6T3DOrPlU6dRiwla0otyHQw70ltOiWxRt4200AqjzshxHrpq9RumTbo-RfBcuWcTO_jjtwr0-jlw2_urdTIJvWo7LJiZ6QXbb-9iTcyl93WNBzzYu0cC9r80O91obsdK1g56_R_nlOB4dSZNFNXgRCrY5wLQ1swv31-McEoNXh3s3T2jES9y5uxXcRazNPxij2XwL8w89g; expires=Thu, 20-Aug-2026 11:58:46 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none",
+      "expires": "Wed, 18 Feb 2026 11:58:46 GMT",
+      "cache-control": "private",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+    },
+    "body": "\n1\u0010\u00ac\u0002 \u0001(\u00022(www.roblox.com/users/10536399388/profile"
+  }
+}

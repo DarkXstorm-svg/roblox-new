@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:58:11.670351",
+      "end": "2026-02-18T19:58:12.041990",
+      "duration_ms": 371
+    },
+    "url": {
+      "full": "https://apis.roblox.com/account-security-service/v1/prompt-assignments?shouldReturnMetadata=true",
+      "protocol": "https",
+      "domain": "apis.roblox.com",
+      "path": "/account-security-service/v1/prompt-assignments",
+      "normalized_path": "/{slug}/v1/prompt-assignments",
+      "query": {
+        "shouldReturnMetadata": [
+          "true"
+        ]
+      }
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 79,
+      "compressed": false
+    },
+    "content_type": "application/json; charset=utf-8",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "x-bound-auth-token": "v1|47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=|1771415891|1nKQKXrxp1RNQsFDttVf6Vj1UAcl++x7oAypr+0pFt9glDa/9hYHk85tZsqQmLCOv1w4fK7Wduxv6ytrLPF1Rw==|mDixHTPUyYeeatDaOaB3sb3roD7+eDICi62Ek4NYxEI3f4fIyxSfPGV4m7J6rNZc8fjjcjI3WjutKSBr7SXnIQ==",
+      "accept": "application/json, text/plain, */*",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua-mobile": "?0",
+      "origin": "https://www.roblox.com",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,, .ROBLOSECURITY=_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEaAhADIhwKBGR1aWQSFDE1OTA2NDcwMzY1NDI4MjU2MjQ3KAM.xpmWxSPlq0t9uEMRW5PZATvSqO4ZRcDpuXm3QmfIKp6xgv76-p4xSYZkFZbXRm6-GUSiw_hVJWODhKdk4tTkqbVnHKy_yyaFCxo32j-WAFHiOpMWpBhMyBapHtPI2TDaieMG9oxdFp0VeLKVDfRkgFFU9gZd5jPIT_44J83CJe_fxphtDk0mVnUmXQK9TY0aBRMmgmyXb0e4JALDO0zYWF9nachqvY45KGgzh6eTKE49bIWwMV4nIp_KQJXjcHHdGGrObJXSZ8nmAmT-q7sXqdVIL4-A75KPfKzfyeQTEwx-3NYbJ81Y9UH8_NE9hENbxd__tWB1gk0uL-jEtKJiJpFdBC4QuCaLjuInFGX1hlE3qWvLX3XazPzy2bmK15_k5zXNGrld_Dk11Fp7cwRg_CER8_luSF_HHQOQ57BPmVJT-XeTI0oAGRTYzn77zU1kLN0hTFzEM8tIZnE-Kesd1TqfEmfJ6L3057MSiRlWsexDuhMKa7jnBhAKpmZaXx0ql72S5f3hPFYLrg8k188iGf9c-XZ6XAN6swwoqzH2ENIq9dlDwMGkG6aLm6o3g4hEMjONOIpbTbCQLXst1Sq3ChMtivtevg96-GfONIURoIhe8QywGCwJZY4L_wAhrTmgukXa8syxqXx1LI4NUhNPrNcpY8-EurE9wuF-236hmGB2asKubEfft12Plu7tzkada-a9FLje5hdUtqxaqpTNX67WmyZxoHkvoC78Cx9N0Se3mZyZGA-F3ZplBf8XSWUBSvzgsQCHGHLGdq2RlB0oA3SAcVh0ou8XP-noPr3F5i0vhpuC, RBXSessionTracker=sessionid=48916139-b5c4-4354-8ed6-d5af7303de32, RBXEventTrackerV2=CreateDate=02/18/2026 05:57:43&rbxid=10533236298&browserid=1759587403750002",
+      "priority": "u=1, i"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/json; charset=utf-8",
+      "date": "Wed, 18 Feb 2026 11:58:13 GMT",
+      "content-length": "79",
+      "x-envoy-upstream-service-time": "208",
+      "server": "public-gateway",
+      "x-terms-message": "Terms apply https://rblx.co/TOU.",
+      "strict-transport-security": "max-age=3600",
+      "x-ratelimit-limit": "100, 10000;w=60, 100;w=60, 100;w=60",
+      "x-ratelimit-remaining": "98",
+      "x-ratelimit-reset": "47",
+      "access-control-allow-origin": "https://www.roblox.com",
+      "access-control-allow-credentials": "true",
+      "vary": "Origin",
+      "x-ingress-proxy": "true",
+      "x-roblox-edge": "c117",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1}"
+    },
+    "body": "[{\"isGeneric\":false,\"promptType\":\"PROMPT_TYPE_PASSKEY_UPSELL\",\"metadata\":null}]"
+  }
+}

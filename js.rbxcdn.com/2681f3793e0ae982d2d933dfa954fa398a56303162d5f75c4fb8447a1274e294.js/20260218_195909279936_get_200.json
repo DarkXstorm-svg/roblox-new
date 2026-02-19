@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:08.603017",
+      "end": "2026-02-18T19:59:09.277732",
+      "duration_ms": 674
+    },
+    "url": {
+      "full": "https://js.rbxcdn.com/2681f3793e0ae982d2d933dfa954fa398a56303162d5f75c4fb8447a1274e294.js",
+      "protocol": "https",
+      "domain": "js.rbxcdn.com",
+      "path": "/2681f3793e0ae982d2d933dfa954fa398a56303162d5f75c4fb8447a1274e294.js",
+      "normalized_path": "/2681f3793e0ae982d2d933dfa954fa398a56303162d5f75c4fb8447a1274e294.js",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 501,
+      "compressed": true
+    },
+    "content_type": "application/javascript",
+    "cache_status": "public, max-age=31536000"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=2"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/javascript",
+      "date": "Thu, 15 Jan 2026 17:57:17 GMT",
+      "last-modified": "Tue, 28 Oct 2025 02:04:26 GMT",
+      "content-encoding": "gzip",
+      "x-amz-server-side-encryption": "AES256",
+      "cache-control": "public, max-age=31536000",
+      "x-amz-version-id": "s2IyE.nbQUDUaxWPvKlNIMXCTMND_qhX",
+      "server": "AmazonS3",
+      "etag": "W/\"ee1f844821f2fb2561c7a7a78556861e\"",
+      "vary": "accept-encoding, Origin",
+      "x-cache": "Hit from cloudfront",
+      "via": "1.1 1b7c94274bd830ddf26396883b21ed8a.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P1",
+      "x-amz-cf-id": "HItAS2-MIaW7RsySShJNrFdGPWGiresz3K9x8zXMK2SWCSkLiHG3Tg==",
+      "age": "2916114",
+      "rbx-cdn-provider": "aws",
+      "timing-allow-origin": "*",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0,\"failure_fraction\":0.05,\"response_headers\":[\"Rbx-Cdn-Provider\",\"vary\"]}",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P1\",cdn-rid;desc=\"HItAS2-MIaW7RsySShJNrFdGPWGiresz3K9x8zXMK2SWCSkLiHG3Tg==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=1"
+    },
+    "body": "var Roblox = Roblox || {};\nRoblox.LangDynamic = Roblox.LangDynamic || {};\nRoblox.LangDynamic[\"Feature.BillingAddress\"] = {\"Label.Subdivision_CA_Nunavut\":\"Nunavut\",\"Label.Subdivision_CA_Alberta\":\"Alberta\",\"Label.Subdivision_CA_NewfoundlandAndLabrador\":\"Newfoundland and Labrador\",\"Label.Subdivision_CA_BritishColumbia\":\"British Columbia\",\"Label.Subdivision_CA_Manitoba\":\"Manitoba\",\"Label.Subdivision_CA_NewBrunswick\":\"New Brunswick\",\"Label.Subdivision_CA_NorthwestTerritories\":\"Northwest Territories\",\"Label.Subdivision_CA_NovaScotia\":\"Nova Scotia\",\"Label.Subdivision_CA_Ontario\":\"Ontario\",\"Label.Subdivision_CA_PrinceEdwardIsland\":\"Prince Edward Island\",\"Label.Subdivision_CA_Quebec\":\"Quebec\",\"Label.Subdivision_CA_Saskatchewan\":\"Saskatchewan\",\"Label.Subdivision_CA_Yukon\":\"Yukon\",\"Button.BillingAddress.Save\":\"Save\",\"Button.BillingAddress.Cancel\":\"Cancel\",\"Label.BillingAddress.Province\":\"Province\",\"Description.BillingAddress.ApproximateUserLocation\":\"Please enter your address so we can accurately calculate tax. In some cases we may use your device\u00e2\u0080\u0099s location.\"};\nwindow.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected(\"DynamicLocalizationResourceScript_Feature.BillingAddress\");\n"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:07.795253",
+      "end": "2026-02-18T19:59:08.187450",
+      "duration_ms": 392
+    },
+    "url": {
+      "full": "https://css.rbxcdn.com/aa624ade42c26d4978b47ed370c9863f4dde72dbba98db4d3c2f0b25cbe81271.css",
+      "protocol": "https",
+      "domain": "css.rbxcdn.com",
+      "path": "/aa624ade42c26d4978b47ed370c9863f4dde72dbba98db4d3c2f0b25cbe81271.css",
+      "normalized_path": "/aa624ade42c26d4978b47ed370c9863f4dde72dbba98db4d3c2f0b25cbe81271.css",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 487,
+      "compressed": true
+    },
+    "content_type": "text/css",
+    "cache_status": "public, max-age=28595892"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=0"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "x-amz-id-2": "9iYN8JDsJQE3iur2AXrHzVCjTQHHBFpgedqXz/FFyopFuaw8mQOJ4xqEPH7i8VCpiNb/KJPH8QcL8rZ5GkGQV1aZPbZQNgkuUU9XeBK2QIc=",
+      "x-amz-request-id": "1J9HZNVSGKT361DA",
+      "last-modified": "Thu, 06 Feb 2025 22:44:22 GMT",
+      "etag": "\"5337e5f498e739f7e58f023dcf58cb82\"",
+      "x-amz-server-side-encryption": "AES256",
+      "x-amz-version-id": "8e8.LshR77FKDib3NSlF6IC8APY5tKH0",
+      "accept-ranges": "bytes",
+      "content-type": "text/css",
+      "server": "AmazonS3",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "cache-control": "public, max-age=28595892",
+      "date": "Wed, 18 Feb 2026 11:59:09 GMT",
+      "content-length": "487",
+      "akamai-request-bc": "[a=1.37.68.182,b=445465198,c=g,n=PH_00_QUEZONCITY,o=4775]",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0,\"failure_fraction\":0.05}",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "rbx-cdn-provider": "ak",
+      "access-control-expose-headers": "Rbx-Cdn-Provider,Akamai-Request-BC",
+      "access-control-allow-origin": "*"
+    },
+    "body": "#session-management .icon-nav-arrow-right{background-position:0 -40px;background-size:40px auto;width:20px;height:20px}#session-management .icon-nav-arrow-right,#session-management .unknown-sessions{float:right;vertical-align:bottom;cursor:pointer}#session-management .location-description{margin-top:6px}#session-management .section-content{padding:15px 15px 0}@media(max-width:767px){#session-management .session-row-wide{display:none}}#session-management .session-row-narrow{cursor:pointer}@media(min-width:768px){#session-management .session-row-narrow{display:none}}#session-management .show-more{color:#70a0ff;text-align:center;cursor:pointer}@media(max-width:767px){#session-management .sign-out-all-sessions-wide{display:none}}#session-management .sign-out-all-sessions-wide .acct-settings-btn{float:none;padding-left:30px;padding-right:30px}@media(min-width:768px){#session-management .sign-out-all-sessions-narrow{display:none}}#session-management .sign-out-all-sessions-narrow .acct-settings-btn{float:none;padding-left:30px;padding-right:30px}#session-management .text-error{text-align:center}#session-management .tooltip-container{float:right}@media(min-width:768px){#session-management .last-divider{display:none}}.modal-body .session-info-section .session-info-label{font-size:12px;margin-top:24px}.modal-body .session-info-section .session-info-content{margin-top:12px;margin-bottom:12px}.modal-body .session-info-section .no-footer{margin-bottom:18px}.light-theme .session-info-section .session-info-content{color:#272930}.dark-theme .session-info-section .session-info-content{color:#fff}"
+  }
+}

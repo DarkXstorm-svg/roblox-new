@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:08.625427",
+      "end": "2026-02-18T19:59:09.813611",
+      "duration_ms": 1188
+    },
+    "url": {
+      "full": "https://js.rbxcdn.com/e5065fed674364cbb787d932acc57e348bac279ce4e473036f16b1d239e13e51.js",
+      "protocol": "https",
+      "domain": "js.rbxcdn.com",
+      "path": "/e5065fed674364cbb787d932acc57e348bac279ce4e473036f16b1d239e13e51.js",
+      "normalized_path": "/e5065fed674364cbb787d932acc57e348bac279ce4e473036f16b1d239e13e51.js",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 530,
+      "compressed": false
+    },
+    "content_type": "application/javascript",
+    "cache_status": "public, max-age=31536000"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=2"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/javascript",
+      "date": "Wed, 04 Feb 2026 17:37:52 GMT",
+      "last-modified": "Wed, 04 Feb 2026 00:46:49 GMT",
+      "content-encoding": "br",
+      "x-amz-server-side-encryption": "AES256",
+      "cache-control": "public, max-age=31536000",
+      "x-amz-version-id": "BsOnOc4t6Z87se1llXn5bpum1OL4m.CA",
+      "server": "AmazonS3",
+      "etag": "W/\"8928cfd2e2d067c3d4c2a60c5ad95922\"",
+      "vary": "accept-encoding, Origin",
+      "x-cache": "Hit from cloudfront",
+      "via": "1.1 1b7c94274bd830ddf26396883b21ed8a.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P1",
+      "x-amz-cf-id": "yCV9y8oFtKyLW1TsAjY4lSe9fRJNN1I4j3wseErC6hmCAH6eMv1r6A==",
+      "age": "1189279",
+      "rbx-cdn-provider": "aws",
+      "timing-allow-origin": "*",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0,\"failure_fraction\":0.05,\"response_headers\":[\"Rbx-Cdn-Provider\",\"vary\"]}",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P1\",cdn-rid;desc=\"yCV9y8oFtKyLW1TsAjY4lSe9fRJNN1I4j3wseErC6hmCAH6eMv1r6A==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=3"
+    },
+    "body": "var Roblox = Roblox || {};\nRoblox.LangDynamic = Roblox.LangDynamic || {};\nRoblox.LangDynamic[\"Feature.SocialLinks\"] = {\"Label.ViewDetails\":\"View Details\",\"Description.ManageLinksRequirement\":\"To add or edit links to your social network profiles, complete an age check\",\"Header.SocialLinkVisibility\":\"Your social media links are not currently visible\",\"Description.AgeCheckRequiredForVisibility\":\"To update Social networks visibility, complete an age check.\",\"Description.ConfirmYourAge\":\"Confirm your age to enable visibility and manage social media links for this community.\",\"Action.GetStarted\":\"Get Started\",\"Header.ManageSocialLinks\":\"Manage social media links\",\"Description.ManageSocialLinksRequirement\":\"Confirm your age to manage social media links for this community.\",\"Header.ChildSafetyMatters\":\"Your child\u00e2\u0080\u0099s safety matters: we need to check their age\",\"Description.ChildAgeCheckInstructions\":\"We only allow age checked users to share or view social networks. Start an age check from your child\u00e2\u0080\u0099s account: Settings > Privacy > Communication\",\"Header.AgeCheckNeeded\":\"We need to check your age\",\"Description.ExperienceSocialLinksVisibility\":\"Confirm your age to enable visibility and manage social media links for this experience.\",\"Description.ExperienceSocialLinksManagement\":\"Confirm your age to manage social media links for this experience.\"};\nwindow.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected(\"DynamicLocalizationResourceScript_Feature.SocialLinks\");\n"
+  }
+}

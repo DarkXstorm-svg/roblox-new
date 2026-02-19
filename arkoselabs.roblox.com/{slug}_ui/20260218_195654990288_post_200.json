@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:56:53.965660",
+      "end": "2026-02-18T19:56:54.988072",
+      "duration_ms": 1022
+    },
+    "url": {
+      "full": "https://arkoselabs.roblox.com/metrics/ui",
+      "protocol": "https",
+      "domain": "arkoselabs.roblox.com",
+      "path": "/metrics/ui",
+      "normalized_path": "/{slug}/ui",
+      "query": {}
+    },
+    "method": "POST",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 1500,
+      "response_bytes": 3,
+      "compressed": false
+    },
+    "content_type": "text/plain;charset=UTF-8",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "content-length": "1500",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.roblox.com",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=1, i"
+    },
+    "payload": "{\"id\":\"9b3e5af8-a71a-4eca-b5a9-415dea8c5298\",\"publicKey\":\"476068BF-9607-4799-B53D-966BE98E2B81\",\"isKeyless\":false,\"capiVersion\":\"4.0.14\",\"mode\":\"lightbox\",\"suppressed\":false,\"device\":{\"platform\":\"Linux armv81\",\"language\":\"en-US\",\"connection\":{\"effectiveType\":\"3g\",\"rtt\":600,\"downlink\":1.35}},\"warning\":{},\"error\":{},\"windowError\":{},\"sessionId\":null,\"performance\":{\"DOM\":{\"totalTime\":6730,\"dnsLoadTime\":0,\"tlsLoadTime\":0,\"timeToStartRequest\":16,\"requestTime\":452,\"responseTime\":5,\"domLoadTime\":1855,\"domCompleteTime\":4338,\"httpProtocol\":\"h2\",\"deliveryType\":\"\",\"requestCached\":false},\"apiJS\":{\"totalTime\":481,\"dnsLoadTime\":0,\"tlsLoadTime\":0,\"timeToStartRequest\":336,\"requestTime\":137,\"responseTime\":8,\"httpProtocol\":\"h2\",\"encodedBodySize\":94785,\"decodedBodySize\":292389,\"requestCached\":false},\"settings\":{\"totalTime\":419,\"dnsLoadTime\":0,\"tlsLoadTime\":310,\"timeToStartRequest\":1,\"requestTime\":95,\"responseTime\":6,\"httpProtocol\":\"h3\",\"encodedBodySize\":541,\"decodedBodySize\":541,\"requestCached\":false}},\"locationOrigin\":\"https://www.roblox.com\",\"locationPathname\":\"/Login\",\"timers\":{\"onReady\":{\"start\":1771415813478,\"end\":1771415813955,\"diff\":477,\"metrics\":{\"apiExecute\":{\"start\":1771415813474,\"end\":1771415813476,\"diff\":2},\"settingsLoad\":{\"start\":1771415813480,\"end\":1771415813944,\"diff\":464,\"info\":{\"requestId\":null}},\"initFPCollection\":{\"start\":1771415813483,\"end\":1771415813955,\"diff\":472},\"fpProcessing\":{\"start\":1771415813955,\"end\":1771415813955,\"diff\":0}}}},\"sampled\":true,\"waitForSettings\":false}"
+  },
+  "response": {
+    "headers": {
+      "content-type": "text/plain;charset=UTF-8",
+      "content-length": "3",
+      "server": "cloudfront",
+      "date": "Wed, 18 Feb 2026 11:56:56 GMT",
+      "access-control-allow-origin": "*",
+      "x-cache": "Miss from cloudfront",
+      "via": "1.1 290fb8f232fd7e8c27a6da64d8252058.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P2",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-amz-cf-id": "Tj-UHBW9-gb5R_jkGSbc7g4kURJX9bp3rWYWZAjP7M8q_8wvNxmuFw==",
+      "x-xss-protection": "1; mode=block",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "accept-ch": "Device-Memory, Sec-CH-UA, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-DPR, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-Viewport-Width, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Width, Sec-CH-UA-Form-Factors",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P2\",cdn-rid;desc=\"Tj-UHBW9-gb5R_jkGSbc7g4kURJX9bp3rWYWZAjP7M8q_8wvNxmuFw==\",cdn-hit-layer;desc=\"REC\",cdn-downstream-fbl;dur=974"
+    },
+    "body": "OK."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:58:01.980897",
+      "end": "2026-02-18T19:58:02.112385",
+      "duration_ms": 131
+    },
+    "url": {
+      "full": "https://css.rbxcdn.com/0177970da14deacec24118ac6b4600c5c32779396f06bd9c9c792159897f43d7.css",
+      "protocol": "https",
+      "domain": "css.rbxcdn.com",
+      "path": "/0177970da14deacec24118ac6b4600c5c32779396f06bd9c9c792159897f43d7.css",
+      "normalized_path": "/0177970da14deacec24118ac6b4600c5c32779396f06bd9c9c792159897f43d7.css",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 1561,
+      "compressed": true
+    },
+    "content_type": "text/css",
+    "cache_status": "public, max-age=31536000"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "text/css,*/*;q=0.1",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "style",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=0"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "text/css",
+      "date": "Wed, 02 Jul 2025 21:50:08 GMT",
+      "last-modified": "Wed, 25 Jun 2025 17:47:32 GMT",
+      "etag": "W/\"3fa8476956722892542a8c55c298e279\"",
+      "x-amz-server-side-encryption": "AES256",
+      "cache-control": "public, max-age=31536000",
+      "x-amz-version-id": "DFJk6swJ0nFGg_6_Ph2rEtEXoL6xKrL0",
+      "server": "AmazonS3",
+      "content-encoding": "gzip",
+      "vary": "Accept-Encoding, Origin",
+      "x-cache": "Hit from cloudfront",
+      "via": "1.1 bb4ad2fa9bba09945ad07a4b7a04a18c.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P1",
+      "x-amz-cf-id": "xV5sHhDyfzRolP1N7tEQBpFVz6n1TAgWMRUcZ4gWOUXc2KU_Zb3OLg==",
+      "age": "19922876",
+      "rbx-cdn-provider": "aws",
+      "timing-allow-origin": "*",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0,\"failure_fraction\":0.05,\"response_headers\":[\"Rbx-Cdn-Provider\",\"vary\"]}",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P1\",cdn-rid;desc=\"xV5sHhDyfzRolP1N7tEQBpFVz6n1TAgWMRUcZ4gWOUXc2KU_Zb3OLg==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=1"
+    },
+    "body": ".content{margin:auto}.container-header .input-group{display:inline-block;float:right}.container-header .title-with-input{margin-top:5px;float:left}.container-header .transactions-title-with-input{width:100%}.container-header .btn-more{float:right}.balance-label{display:flex;justify-content:space-between;margin-top:6px}.balance-label .shimmer-lines{width:100px}.icon-robux-container .icon-robux-16x16{margin-bottom:4px}.transactions .icon-robux-container .icon-robux-16x16{margin-right:0}.table>tbody>tr>td,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>th{padding:9px}.table tr td.user .avatar-card{display:flex;align-items:center}.table tr td.user .avatar-card .avatar-headshot,.table tr td.user .avatar-card .group-icon{float:left;flex-shrink:0;margin-right:12px}.table tr td.user .avatar-card .avatar-headshot-sm+.avatar-card-caption{width:75%;width:calc(100% - 60px)}.table tr td.user .avatar-card .avatar-headshot-sm+.avatar-card-caption .avatar-card-label{padding-top:3px}.table tr td.user .avatar-card .avatar-headshot-xs+.avatar-card-caption{width:75%;width:calc(100% - 44px)}.table tr td.user .avatar-card .avatar-card-caption{float:left}.table tr td.user .avatar-card .avatar-card-caption .avatar-card-name{display:block}.table tr td.user .place-card{display:flex;align-items:center}.table tr td.user .place-card .group-icon,.table tr td.user .place-card .place-icon{float:left;flex-shrink:0;margin-right:12px}.table tr td.user .place-card .place-icon-sm+.place-card-caption{width:75%;width:calc(100% - 60px)}.table tr td.user .place-card .place-icon-sm+.place-card-caption .place-card-label{padding-top:3px}.table tr td.user .place-card .place-icon-xs+.place-card-caption{width:75%;width:calc(100% - 44px)}.table tr td.user .place-card .place-card-caption{float:left}.table tr td.user .place-card .place-card-caption .place-card-name{display:block}@media(max-width:543px){.container-header{padding:10px}}.transactions-container .rejected-amount{text-decoration:line-through}.user-transactions-container .dropdown-container{display:flex}@media(max-width:543px){.user-transactions-container .dropdown-container{display:block}}.transaction-type-dropdown{float:left;display:inline-block;width:auto;min-width:250px}@media(max-width:543px){.transaction-type-dropdown{float:none;width:100%;display:block}}.transaction-type-dropdown .dropdown-menu{min-width:250px}.transaction-date-dropdown,.transaction-num-items-dropdown,.transaction-paid-items-dropdown{float:left;display:inline-block;width:auto;margin-left:12px;min-width:200px}@media(max-width:543px){.transaction-date-dropdown,.transaction-num-items-dropdown,.transaction-paid-items-dropdown{float:none;width:100%;display:block;margin-top:12px;margin-left:0}}.transaction-date-dropdown .dropdown-menu,.transaction-num-items-dropdown .dropdown-menu,.transaction-paid-items-dropdown .dropdown-menu{min-width:250px}.transactions-download-csv{align-self:flex-end;margin-left:12px;min-width:36px}@media(max-width:543px){.transactions-download-csv{margin-top:12px;margin-left:0}}.transactions-container.faded{opacity:.4;pointer-events:none}li.pending,tr.pending td.amount>span,tr.pending td.date>div,tr.pending td.icon-robux-container>span,tr.pending td.item>.item-format,tr.pending td.pending-sales>span,tr.pending td.user>.avatar-card{opacity:.8}table.transactions{padding:9px;table-layout:fixed}table.transactions th.date{width:15%}table.transactions th.item{width:45%}table.transactions th.amount,table.transactions th.user{width:20%}table.transactions th.amount .icon-moreinfo-16x16{margin-left:2px;margin-bottom:2px}table.transactions .user .text-name{display:block}table.transactions .item-sale-format{min-height:60px;overflow:hidden}table.transactions .item-format{display:flex;align-items:center}table.transactions .item-format .item-card-image{width:48px;height:48px;flex-shrink:0;margin-right:12px}table.transactions .item-format .item-card-image[thumbnail-type=gameIcon].icon-pending{background-size:100% auto;width:48px;height:48px;background-position:0 0}table.transactions .item-format .item-card-image[thumbnail-type=avatarHeadshot].icon-pending{background-size:100% auto;width:48px;height:48px;background-position:0 -96px}table.transactions .item-format .item-description{width:50%;width:calc(100% - 76px)}table.transactions .item-format .item-description .item-card-label{padding-top:3px}table.transactions .item-format .text-overflow{white-space:normal}table.transactions .item-format .subscription-card-image{width:48px;height:48px;flex-shrink:0;margin-right:12px;border-radius:4px}table.transactions .item-format .subscription-card-image[thumbnail-type=gameIcon].icon-pending{background-size:100% auto;width:48px;height:48px;background-position:0 0}table.transactions .item-format .subscription-card-image[thumbnail-type=avatarHeadshot].icon-pending{background-size:100% auto;width:48px;height:48px;background-position:0 -96px}table.transactions .item-format .license-card-image{width:85px;height:48px;flex-shrink:0;margin-right:12px;border-radius:4px}table.transactions .item-format .license-card-image[thumbnail-type=gameIcon].icon-pending{background-size:100% auto;width:85px;height:48px;background-position:0 0}table.transactions .item-format .license-card-image[thumbnail-type=avatarHeadshot].icon-pending{background-size:100% auto;width:85px;height:48px;background-position:0 -56px}table.transactions .place-card-image{width:48px;height:48px;border-radius:4px}table.transactions .place-card-image[thumbnail-type=gameIcon].icon-pending{background-size:100% auto;width:48px;height:48px;background-position:0 0}table.transactions .place-card-image[thumbnail-type=avatarHeadshot].icon-pending{background-size:100% auto;width:48px;height:48px;background-position:0 -96px}.pager-holder{margin-top:6px}.tooltip-container span{display:inline-block}table.summary h2{padding:5px}table.summary th.amount{width:22%}.transactions-modal .icon-close{margin-top:4px}.transactions-modal .modal-dialog{max-width:400px}.transactions-modal .transactions-date-picker-container{text-align:center;margin-top:12px}.transactions-modal .transactions-date-picker-container .flatpickr-calendar{width:auto;margin:12px 6px 0}.transactions-modal .transactions-date-picker-container .flatpickr-input{text-align:center}.transactions-modal .date-range-error{text-align:center;margin-top:6px}.transactions-modal .cancel-btn{margin-left:12px}#group-transactions-container .transactions-download-csv{float:left}@media(max-width:767px){#group-transactions-container .transactions-download-csv{margin-top:0;margin-left:12px;margin-bottom:12px}}#group-transactions-container .group-sales-header-container{display:flex}#group-transactions-container .group-sales-header{float:left}@media(max-width:767px){#group-transactions-container .group-sales-header{display:none}}.transaction-delay-alert-container{margin:1rem 0}.transaction-delay-alert-container .transaction-delay-alert-box{display:flex;align-items:center;border-radius:4px;padding:6px 16px;font-family:Roboto,Helvetica,Arial,sans-serif;font-size:.875rem;font-weight:400;line-height:1.43;letter-spacing:.01071em;box-sizing:border-box;background-color:#fff4e5;color:#663c00}.transaction-delay-alert-container .transaction-delay-alert-box .transaction-delay-alert-icon{display:inline-flex;align-items:center;justify-content:center;margin-right:8px;font-size:20px;color:#663c00}.transaction-delay-alert-container .transaction-delay-alert-box .transaction-delay-alert-text{margin:0;font-weight:500}"
+  }
+}

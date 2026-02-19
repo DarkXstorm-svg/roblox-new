@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:57:09.326972",
+      "end": "2026-02-18T19:57:09.617338",
+      "duration_ms": 290
+    },
+    "url": {
+      "full": "https://arkoselabs.roblox.com/fc/ca/",
+      "protocol": "https",
+      "domain": "arkoselabs.roblox.com",
+      "path": "/fc/ca/",
+      "normalized_path": "/{slug}/ca/",
+      "query": {}
+    },
+    "method": "POST",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 1544,
+      "response_bytes": 694,
+      "compressed": false
+    },
+    "content_type": "application/json",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "content-length": "1544",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "cache-control": "no-cache",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-newrelic-timestamp": "177141500829313",
+      "x-requested-id": "{\"ct\":\"qGePcjiGX+N/vy+T78eDlNElKOd5Ub6+fBcVAEZxSyA=\",\"iv\":\"1179e01ade8e78a43738fb4347ff9aae\",\"s\":\"38897833aa2528fa\"}",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "origin": "https://arkoselabs.roblox.com",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://arkoselabs.roblox.com/fc/assets/ec-game-core/game-core/1.31.3/standard/index.html?session=4881895554c448373.7161280104&r=ap-southeast-1&meta=3&metabgclr=transparent&metaiconclr=%23757575&maintxtclr=%23b8b8b8&guitextcolor=%23474747&pk=476068BF-9607-4799-B53D-966BE98E2B81&at=40&rid=94&ag=101&cdn_url=https%3A%2F%2Farkoselabs.roblox.com%2Fcdn%2Ffc&surl=https%3A%2F%2Farkoselabs.roblox.com&smurl=https%3A%2F%2Farkoselabs.roblox.com%2Fcdn%2Ffc%2Fassets%2Fstyle-manager",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, RBXEventTrackerV2=CreateDate=10/04/2025 09:19:06&rbxid=7108482020&browserid=1759587403750002, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,, timestamp=177141500829313",
+      "priority": "u=1, i"
+    },
+    "payload": "session_token=4881895554c448373.7161280104&game_token=5321895554d6a4904.9811464704&sid=ap-southeast-1&guess=%7B%22ct%22%3A%228HF62TjUEyjsVpxNFQ93Nw%3D%3D%22%2C%22iv%22%3A%22ac147c717eb752fb2df2ba07e6cfd18e%22%2C%22s%22%3A%223a72061044be6a82%22%7D&render_type=canvas&analytics_tier=40&bio=eyJtYmlvIjoiNjI4MCwwLDE5NCwzMzc7NjI4MCwxLDE5NCwzMzc7NjI4MywyLDE5NCwzMzc7NzM0OSwxLDE5OCwzMzU7NzM0OSwyLDE5OCwzMzU7ODIxOSwxLDE5OCwzMzQ7ODIyMCwyLDE5OCwzMzQ7OTQ1MiwwLDI4MCwzODM7OTQ1MywxLDI4MCwzODM7OTQ1NywyLDI4MCwzODM7IiwidGJpbyI6IjU5OTIsMCwxOTQsMzM3OzcwNDksMCwxOTcsMzM0Ozc5MjEsMCwxOTcsMzI2OzkxNTQsMCwyODAsMzgyOyIsImtiaW8iOiIifQ%3D%3D&is_compatibility_mode=false&tguess=%7B%22ct%22%3A%22JEfyH28GidqkUqmATyLD%2F5YkLd%2F3%2Fg6qRwBJPGSxriaH2Xr0oB03GIfWI%2B3ZG504pjoDaxRRE9jtBaOYCbtZbL1PxUuKxnKe503Tvfps9JVvguYSIo4dkj1Ie3CMQTjplEfubFsQmooxfFyLJVjDujtQvfaP1%2B5CnxEwv4BTImhadDlwVG04Z59dpV%2BfyVgBf%2Bk06F8uEUyasZIyXCYkdSbiSP1fk9g%2BvxBhd266%2B1YCoLQKWAgn9OvxC%2F2Ys6abRRGgYmaEyYXebkzKe%2BTkQg%2B2a1cjP4EHn%2B4yUk0pjRA2oVtYA4GNLuwEDbUQUGqy4ZwyeM9wqnRppv66ByTiWpAr%2BqqPXKZs6rdveq6kBEBzsP9%2FyS9c1ciG6uyARTWOJ8Ncr%2BQ6ajsDE%2FmwCrEPawwkTp1CzugYpgjPMMwC0W%2B4Zfbo1kJjLCe9I%2FzBvWSVNJ%2FEjXiBUVc5M81vFv85Pb9lfC3Qzh8rZU4lTVoBYLyeKGL5HU4UYREwOG7MMULOobdbJb4X0tlLNVwMwmFW%2Fru9HGa%2BfG9PM%2FENjEF3cnb2CMDcuSerQT6A9OraKW6oCWHEob9s9N%2FLmOSTmzEzYIwRq9R3y8qGGtYsW4M73VrVemISqAs9EepmC43LzoJGoCbBl%2Bi3pP7QzPvAPOaQO3vXQx6lAVIcDfe7yqqqIca5mNrcu5MEFgSH3FVV24U4c3Sy43vsR2xpCZq0LBX1eQ%3D%3D%22%2C%22iv%22%3A%22840a7b20696a5e07a40b058fc788b034%22%2C%22s%22%3A%222f2f52fc923c48b4%22%7D"
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/json",
+      "content-length": "694",
+      "access-control-allow-origin": "*",
+      "content-security-policy": "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' cdn.funcaptcha.com cdn.arkoselabs.com data:; media-src 'self' data:; connect-src 'self'",
+      "date": "Wed, 18 Feb 2026 11:57:10 GMT",
+      "hackers": "www.arkoselabs.com/whitehat/",
+      "server": "cloudfront",
+      "sregion": "ap-southeast-1",
+      "version": "2.0",
+      "x-envoy-upstream-service-time": "46",
+      "x-cache": "Miss from cloudfront",
+      "via": "1.1 3eafd911617df6700f1357b2dcc7380c.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P2",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-amz-cf-id": "kCwkXeD-wyG4xL1Zaam0V9jcJ8dJK_B_zZRUK1iX5cAPANcSHGL1qQ==",
+      "x-xss-protection": "1; mode=block",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "accept-ch": "Device-Memory, Sec-CH-UA, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-DPR, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-Viewport-Width, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Width, Sec-CH-UA-Form-Factors",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P2\",cdn-rid;desc=\"kCwkXeD-wyG4xL1Zaam0V9jcJ8dJK_B_zZRUK1iX5cAPANcSHGL1qQ==\",cdn-hit-layer;desc=\"REC\",cdn-downstream-fbl;dur=122"
+    },
+    "body": "{\"response\":\"not answered\",\"solved\":null,\"incorrect_guess\":null,\"decryption_key\":null,\"time_end\":null,\"time_end_seconds\":null,\"_challenge_imgs\":[\"https://arkoselabs.roblox.com/rtig/image?challenge=1\\u0026expires=1771419419\\u0026gameToken=5321895554d6a4904.9811464704\\u0026sessionToken=4881895554c448373.7161280104\\u0026signature=Ms%2BAXtYEMuewmOKQeCpQZemp0Qdkd%2BOjKIjQ0i9vy7WsWSoTDtPnG5AcaoGPBRybXgPeCX4r35jfeV7HILt1I76svaCxir4n8OMARhVJFQq7RmZ1w7NEABrUWUzCvvJ474WpsliOFErFIwYvKUVGMJZdfDT88SkvwX1tCjZll7OhXTMPA6o%2BI82hVMqR761YDBNo%2FOFoxPNiD5MQ7KLY7eTuC02uxlMNo27PPOI42yQqPIjMN6sSfp9wZrGdUjItpfxVJjmUjfXeFUJxgdGKpj%2FhZXG2ypoper%2FLTVVKa2aaOzdToaS%2F0YUpgF139UCkjAd1tVcBYS9GKwrBOaPKLg%3D%3D\"]}"
+  }
+}

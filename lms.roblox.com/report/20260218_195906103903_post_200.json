@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:05.800321",
+      "end": "2026-02-18T19:59:06.101943",
+      "duration_ms": 301
+    },
+    "url": {
+      "full": "https://lms.roblox.com/report",
+      "protocol": "https",
+      "domain": "lms.roblox.com",
+      "path": "/report",
+      "normalized_path": "/report",
+      "query": {}
+    },
+    "method": "POST",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 2535,
+      "response_bytes": 0,
+      "compressed": false
+    },
+    "content_type": "",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "content-length": "2535",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "x-csrf-token": "Df7Y4bzYSUur",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-bound-auth-token": "v1|jh4EyWpVA2iftMNPXXnXokrzkyThKMPdhsI9uJmf8T8=|1771415944|ZZm0RPd9z6gV01E+HXFy9r6obfBHbGQW+DVyBm3HQ59V+38TFhY5IHic/slBFywdwnavVSQByoCyZovbYa+Jzg==|ik3iGmXP3toIA5QwHm+lI7QRDHOmnoSopLm4w5NDRyTTIDZUBPGFL+zFuL/CDCfZyx5ocgxl0lttPa7FaQKlSA==",
+      "accept": "application/json, text/plain, */*",
+      "content-type": "application/json;charset=UTF-8",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "origin": "https://www.roblox.com",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=1, i"
+    },
+    "payload": "{\"ctx\":{},\"name\":\"http_get_pop_targets\",\"type\":\"http_get\",\"data\":[{\"name\":\"plsr_png\",\"target\":\"https://sc0.rbxcdn.com/test-50kb.png\",\"data\":[{\"start\":2877.5,\"size\":53218,\"d\":35.30000001192093,\"ttfb\":33.10000002384186,\"sc\":200,\"dns\":0,\"rtt\":13.900000035762787,\"tcp\":0,\"tls\":0}]},{\"name\":\"gcp_png\",\"target\":\"https://sc0gcp.rbxcdn.com/test-50kb.png\",\"data\":[{\"start\":2876,\"size\":53218,\"d\":37.40000003576279,\"ttfb\":34.5,\"sc\":200,\"dns\":0,\"rtt\":14.199999988079071,\"tcp\":0,\"tls\":0}]},{\"name\":\"clou_png\",\"target\":\"https://sc0aws.rbxcdn.com/test-50kb.png\",\"data\":[{\"start\":2872.100000023842,\"size\":53218,\"d\":1311.5,\"ttfb\":1307.199999988079,\"sc\":200,\"dns\":0,\"rtt\":313.2999999523163,\"tcp\":530.8999999761581,\"tls\":446.60000002384186}]},{\"name\":\"pulsar_1px\",\"target\":\"https://pulsar.roblox.com/_/_/1px.gif\",\"data\":[{\"start\":2874.300000011921,\"size\":43,\"d\":1432.9000000357628,\"ttfb\":1431.1000000238419,\"sc\":200,\"dns\":0,\"rtt\":380.39999997615814,\"tcp\":572.5999999642372,\"tls\":458.80000001192093}]},{\"name\":\"sin6c2_1px\",\"target\":\"https://sin6c2-128-116-46-3.roblox.com/_/_/1px.gif\",\"data\":[{\"start\":2880.600000023842,\"size\":43,\"d\":1430.199999988079,\"ttfb\":1427.6000000238419,\"sc\":200,\"dns\":0,\"rtt\":385.9000000357628,\"tcp\":566.5999999642372,\"tls\":454.80000001192093}]},{\"name\":\"sin6_1px\",\"target\":\"https://sin6-128-116-54-3.roblox.com/_/_/1px.gif\",\"data\":[{\"start\":2883.600000023842,\"size\":43,\"d\":1429.300000011921,\"ttfb\":1426.800000011921,\"sc\":200,\"dns\":0,\"rtt\":384.69999998807907,\"tcp\":630.6000000238419,\"tls\":391.30000001192093}]},{\"name\":\"fra2_1px\",\"target\":\"https://fra2-128-116-5-3.roblox.com/_/_/1px.gif\",\"data\":[{\"start\":2882.300000011921,\"size\":43,\"d\":1813.6000000238419,\"ttfb\":1811.300000011921,\"sc\":200,\"dns\":0,\"rtt\":385.19999998807907,\"tcp\":813.1999999880791,\"tls\":589.6000000238419}]},{\"name\":\"dfw2_1px\",\"target\":\"https://dfw2-128-116-95-3.roblox.com/_/_/1px.gif\",\"data\":[{\"start\":2869.199999988079,\"size\":43,\"d\":2155,\"ttfb\":2151.400000035763,\"sc\":200,\"dns\":0,\"rtt\":404.80000001192093,\"tcp\":848.6000000238419,\"tls\":895.6999999880791}]},{\"name\":\"gru1_1px\",\"target\":\"https://gru1-128-116-86-3.roblox.com/_/_/1px.gif\",\"data\":[{\"start\":2879.100000023842,\"size\":43,\"d\":2150.100000023842,\"ttfb\":2147.699999988079,\"sc\":200,\"dns\":0,\"rtt\":596.3999999761581,\"tcp\":869.9000000357628,\"tls\":658.1999999880791}]},{\"name\":\"lax2_1px\",\"target\":\"https://lax2-128-116-116-3.roblox.com/_/_/1px.gif\",\"data\":[{\"start\":2870.800000011921,\"size\":43,\"d\":2324.100000023842,\"ttfb\":2321.800000011921,\"sc\":200,\"dns\":0,\"rtt\":433.10000002384186,\"tcp\":1619.5,\"tls\":263}]}]}"
+  },
+  "response": {
+    "headers": {
+      "access-control-allow-credentials": "true",
+      "access-control-allow-origin": "https://www.roblox.com",
+      "access-control-expose-headers": "Link",
+      "vary": "Origin",
+      "date": "Wed, 18 Feb 2026 11:59:07 GMT",
+      "content-length": "0",
+      "x-roblox-region": "us-central_rbx",
+      "x-roblox-edge": "c117",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1}"
+    },
+    "body": null
+  }
+}

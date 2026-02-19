@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:00.202226",
+      "end": "2026-02-18T19:59:00.280115",
+      "duration_ms": 77
+    },
+    "url": {
+      "full": "https://js.rbxcdn.com/52d84c4f622197d530e6745c34209e7fc360e58bf420746db82ddcf2c33ea5c1.js",
+      "protocol": "https",
+      "domain": "js.rbxcdn.com",
+      "path": "/52d84c4f622197d530e6745c34209e7fc360e58bf420746db82ddcf2c33ea5c1.js",
+      "normalized_path": "/52d84c4f622197d530e6745c34209e7fc360e58bf420746db82ddcf2c33ea5c1.js",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 644,
+      "compressed": false
+    },
+    "content_type": "application/javascript",
+    "cache_status": "public, max-age=31536000"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=2"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/javascript",
+      "content-length": "644",
+      "date": "Wed, 20 Aug 2025 04:32:06 GMT",
+      "last-modified": "Fri, 11 Aug 2023 00:25:59 GMT",
+      "etag": "\"7f016c7adbc3f4c6782c4e38fae1e0fb\"",
+      "x-amz-server-side-encryption": "AES256",
+      "cache-control": "public, max-age=31536000",
+      "x-amz-version-id": "b0nmUmJKow_877q2SaU.8.vpEZ4z0AKp",
+      "accept-ranges": "bytes",
+      "server": "AmazonS3",
+      "x-cache": "Hit from cloudfront",
+      "via": "1.1 1b7c94274bd830ddf26396883b21ed8a.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P1",
+      "x-amz-cf-id": "NWBvWB1OVo3nLeqLCHSPCqojuCkUqHVgu9YKoxaY3e-egsf06cavWQ==",
+      "age": "15751616",
+      "rbx-cdn-provider": "aws",
+      "timing-allow-origin": "*",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0,\"failure_fraction\":0.05,\"response_headers\":[\"Rbx-Cdn-Provider\",\"vary\"]}",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "vary": "Origin",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P1\",cdn-rid;desc=\"NWBvWB1OVo3nLeqLCHSPCqojuCkUqHVgu9YKoxaY3e-egsf06cavWQ==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=1"
+    },
+    "body": "var Roblox = Roblox || {};\nRoblox.LangDynamic = Roblox.LangDynamic || {};\nRoblox.LangDynamic[\"Feature.FriendRecommendations\"] = {\"Label.FriendRecommendationsHeader\":\"People You May Know\",\"Action.OK\":\"Ok\",\"Label.ErrorHeader\":\"Error\",\"Label.MiscError\":\"An Error Occurred\",\"Label.MutualFriend\":\"{mutualFriendsCount, plural, =0 {# mutual friends} =1 {# mutual friend} other {# mutual friends}}\",\"Message.More\":\"{plusSign} {remainingCount} more\",\"Label.YouAreFriends\":\"You are friends\"};\nwindow.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected(\"DynamicLocalizationResourceScript_Feature.FriendRecommendations\");\n"
+  }
+}

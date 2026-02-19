@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:56:55.018529",
+      "end": "2026-02-18T19:56:55.063939",
+      "duration_ms": 45
+    },
+    "url": {
+      "full": "https://arkoselabs.roblox.com/cdn/fc/assets/style-manager/styles/85dffee8-877e-43f6-9675-a43c8425e5e8.css",
+      "protocol": "https",
+      "domain": "arkoselabs.roblox.com",
+      "path": "/cdn/fc/assets/style-manager/styles/85dffee8-877e-43f6-9675-a43c8425e5e8.css",
+      "normalized_path": "/{slug}/fc/{slug}/style-manager/{slug}/85dffee8-877e-43f6-9675-a43c8425e5e8.css",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 1141,
+      "compressed": true
+    },
+    "content_type": "text/css",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://arkoselabs.roblox.com/v2/4.0.14/enforcement.947e5a1f32d245445fcda4ff777843dc.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, RBXEventTrackerV2=CreateDate=10/04/2025 09:19:06&rbxid=7108482020&browserid=1759587403750002, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,",
+      "priority": "u=1, i"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "text/css",
+      "last-modified": "Tue, 23 Sep 2025 22:07:22 GMT",
+      "content-encoding": "gzip",
+      "x-amz-server-side-encryption": "AES256",
+      "x-amz-version-id": "cnb1D6f0WLpKtWXhZ1Mxx1bGkMaObp.h",
+      "server": "cloudfront",
+      "date": "Wed, 18 Feb 2026 03:01:19 GMT",
+      "etag": "W/\"c9279777c823f6fd67543dde92a5919a\"",
+      "vary": "accept-encoding",
+      "via": "1.1 3eafd911617df6700f1357b2dcc7380c.cloudfront.net (CloudFront)",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "age": "32143",
+      "x-xss-protection": "1; mode=block",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "accept-ch": "Device-Memory, Sec-CH-UA, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-DPR, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-Viewport-Width, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Width, Sec-CH-UA-Form-Factors",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P2\",cdn-rid;desc=\"GzoyguCnttsbmRlKtUBYQ7XqROFyuCTwIrvzP8e_WztvQrqZ_ywoDg==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=2",
+      "content-security-policy": "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:;media-src 'self' data:; connect-src 'self''",
+      "x-cache": "Hit from cloudfront",
+      "x-amz-cf-pop": "MNL51-P2",
+      "x-amz-cf-id": "GzoyguCnttsbmRlKtUBYQ7XqROFyuCTwIrvzP8e_WztvQrqZ_ywoDg=="
+    },
+    "body": ".text {\n  color: #868686;\n}\n\n.tile:hover {\n  outline: 3px solid #f00;\n}\n\n.tile:focus {\n  outline: 3px solid blue;\n}\n\ndiv.box.container {\n  border: 1px solid #F2F2F2;\n}\n\n\n\n\n\n/*button*/\nbutton.button {\n  background: #3fc679;\n  color: #fff;\n  padding: 12px 20px;\n  border: none;\n  border-radius: 0px;\n  width: auto;\n}\n\nbutton.button:focus {\n  outline: rgb(255, 0, 0) solid 2px;\n  outline-offset: 2px;\n}\n\n\n\n\n\n\n\n/*home*/\n.home h2.heading.text {\n  color: #000;\n  font-size: 30px;\n}\n\n.home path {\n  display: none;\n}\n\ndiv.home.box.screen {\n  margin-top: -10%;\n}\n\n\n\n/*tilegame Fail*/\ndiv.tile-game-fail.box.screen {\n  align-items: center;\n}\n\ndiv.alert.box {\n  background: transparent;\n}\n\n\n\n\n/*progress*/\n.progress div.progress-section-container,\n.progress div.progress-section-fill {\n  background: #fff;\n  height: 16px;\n  border-top: 1px solid #ccc;\n  border-bottom: 1px solid #ccc;\n}\n\n.progress div.progress-section-fill {\n  background: #3fc679;\n  border-color: #3fc679;\n}\n\n.progress div.progress-section-container:first-child {\n  border-top-left-radius: 10px;\n  border-bottom-left-radius: 10px;\n}\n\n.progress div.progress-section-container:last-child {\n  border-right: 1px solid #ccc;\n  border-top-right-radius: 10px;\n  border-bottom-right-radius: 10px;\n}\n\n\n\n/*Loading*/\ndiv.loading.box.screen {\n  border: 1px solid #666;\n}\n\n.loading svg.loading-spinner path {\n  stroke: #3fc679;\n}\n\n\n\n\n\n\n/*audio-mode*/\n.audio-mode button {\n  padding: 8px 12px;\n}\n\n.audio-game button.button {\n  border-radius: 0px;\n  background: #3fc679;\n  color: #fff;\n  border: none;\n}\n\n.audio-game p.text,\n.audio-game h2.heading.text {\n  color: #1b242d;\n  font-weight: normal;\n}\n\n\n.audio-game input.answer-input {\n  border: none;\n  border-bottom: 1px solid #000;\n  border-radius: 0px;\n  width: 50%;\n  position: absolute;\n  top: 48%;\n  right: 6%;\n}\n\n\n\n.error p.text {\n  max-width: 100%;\n}\n\nform.audio-game.box.screen {\n  padding-top: 7%;\n}\n\nh2.audio-game-alert.text {\n  color: red;\n  font-size: 16px;\n  margin-top: 5%;\n  font-weight: normal;\n  margin-bottom: -5%;\n}\n\n.audio-mode button.play-button {\n  border-radius: 0px;\n  background: #3fc679;\n  color: #fff;\n  border: none;\n}\n\n.audio-mode button.verify-button {\n  border-radius: 0px;\n  background: #3fc679;\n  color: #fff;\n  border: none;\n}\n\n.audio-mode button.download-button {\n  border-radius: 0px;\n  background: #3fc679;\n  color: #fff;\n  border: none;\n}\n\n.audio-mode a {\n  color: #fff;\n}\n\nh2.audio-mode-alert.text {\n  text-align: center;\n  color: red;\n  font-size: 16px;\n  margin-top: 5%;\n}\n\n.audio-mode input {\n  border: 1px solid #868686;\n}\n\n\n\n\n\n/*match game*/\n.match-game h2.text {\n  margin-top: 8%;\n  margin-bottom: 0px;\n}\n\n.match-game button.button {\n  margin-top: 0px;\n  width: 100%;\n}\n\nh2.match-game-alert.text {\n  margin-top: 3%;\n  margin-bottom: -2%;\n}\n\n.match-game-fail p.text {\n  font-weight: normal;\n  margin-top: 5%;\n}\n\n.tile-game h2.text {\n  font-weight: normal;\n}\n\n\nh2.tile-game-alert.text {\n  margin-top: 7%;\n}\n\n.navigation path {\n  fill: #868686;\n}\n\n/*media queries for smaller devices*/\n@media screen and (max-width: 375px) {\n  h2.tile-game-alert.text {\n    font-size: 18px;\n  }\n\n  .home h2.heading.text {\n    font-size: 23px;\n  }\n}\n\ndiv.match-game.box.screen {\n  padding-top: 14px;\n  padding-bottom: 4px;\n}\n\n.match-game p.key-frame-text.text {\n  color: #fff;\n}\n\n.match-game a.left-arrow,\n.match-game a.right-arrow {\n  margin-left: 2%;\n  margin-right: 2%;\n  margin-bottom: -22%;\n}\n\n.match-game div.pip-container {\n  padding-top: 12px;\n  height: 32px;\n}\n\n.match-game div.box.challenge-container {\n  margin-top: 10px;\n  margin-bottom: 16px;\n}\n\n.match-game button.button {}\n\n/* Footer */\n.navigation {\n  height: auto;\n  padding: 0 50px;\n  padding-bottom: 0.7rem;\n}\n\n.navigation .icon-button {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  padding: 0 0.25rem;\n}\n\n.navigation .icon-button svg {\n  margin-right: 0.5rem;\n}\n\n.navigation path {\n  fill: #868686;\n}\n\n\n.navigation p.text {\n  font-size: 0.8rem;\n}\n\ndiv.progress.box.screen {\n  background: #fff;\n  transition: none;\n}\n\ndiv.home.box.screen {}\n\ndiv.match-game.box.screen {\n  background: #fff;\n  transition: none;\n}"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:14.354300",
+      "end": "2026-02-18T19:59:14.837769",
+      "duration_ms": 483
+    },
+    "url": {
+      "full": "https://js.stripe.com/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+      "protocol": "https",
+      "domain": "js.stripe.com",
+      "path": "/v3/fingerprinted/js/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+      "normalized_path": "/{slug}/fingerprinted/{slug}/m-outer-15a2b40a058ddff1cffdb63779fe3de1.js",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 256,
+      "compressed": false
+    },
+    "content_type": "text/javascript; charset=utf-8",
+    "cache_status": "max-age=31536000"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Android\"",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?1",
+      "accept": "*/*",
+      "sec-fetch-site": "same-origin",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "last-modified": "Fri, 19 Dec 2025 22:03:01 GMT",
+      "etag": "\"d96c709017743c0759cf3853d1806ba5\"",
+      "content-type": "text/javascript; charset=utf-8",
+      "server": "Fastly",
+      "content-encoding": "br",
+      "accept-ranges": "bytes",
+      "date": "Wed, 18 Feb 2026 11:59:15 GMT",
+      "via": "1.1 varnish",
+      "age": "4983859",
+      "x-request-id": "a36dc9cf-ae08-435c-aef9-f9546a31fcf7",
+      "x-served-by": "cache-sin-wsat1880055-SIN",
+      "x-cache": "HIT",
+      "x-cache-hits": "1143989",
+      "access-control-allow-origin": "*",
+      "cache-control": "max-age=31536000",
+      "strict-transport-security": "max-age=31556926; includeSubDomains; preload",
+      "vary": "Accept-Encoding",
+      "x-content-type-options": "nosniff",
+      "timing-allow-origin": "*",
+      "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400",
+      "content-length": "256"
+    },
+    "body": "!function(){\"use strict\";var e=\"https://m.stripe.network\",n=window.location.hash,t=/preview=true/.test(n)?\"inner-preview.html\":\"inner.html\",o=document.createElement(\"iframe\");o.src=\"\".concat(e,\"/\").concat(t).concat(n);var i=function(n){if(n.origin===e){var t=window.opener||window.parent||window;if(!t)return;t.postMessage(n.data,\"*\")}else o.contentWindow.postMessage(n.data,\"*\")};window.addEventListener?window.addEventListener(\"message\",i,!1):window.attachEvent(\"onMessage\",i),document.body&&document.body.appendChild(o)}();"
+  }
+}

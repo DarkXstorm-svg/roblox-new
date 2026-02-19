@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:58:49.668616",
+      "end": "2026-02-18T19:58:50.065212",
+      "duration_ms": 396
+    },
+    "url": {
+      "full": "https://apis.roblox.com/rotating-client-service/v1/prelude/latest",
+      "protocol": "https",
+      "domain": "apis.roblox.com",
+      "path": "/rotating-client-service/v1/prelude/latest",
+      "normalized_path": "/{slug}/v1/{slug}/latest",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 6934,
+      "compressed": false
+    },
+    "content_type": "text/javascript",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,, .ROBLOSECURITY=_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEaAhADIhwKBGR1aWQSFDE1OTA2NDcwMzY1NDI4MjU2MjQ3KAM.xpmWxSPlq0t9uEMRW5PZATvSqO4ZRcDpuXm3QmfIKp6xgv76-p4xSYZkFZbXRm6-GUSiw_hVJWODhKdk4tTkqbVnHKy_yyaFCxo32j-WAFHiOpMWpBhMyBapHtPI2TDaieMG9oxdFp0VeLKVDfRkgFFU9gZd5jPIT_44J83CJe_fxphtDk0mVnUmXQK9TY0aBRMmgmyXb0e4JALDO0zYWF9nachqvY45KGgzh6eTKE49bIWwMV4nIp_KQJXjcHHdGGrObJXSZ8nmAmT-q7sXqdVIL4-A75KPfKzfyeQTEwx-3NYbJ81Y9UH8_NE9hENbxd__tWB1gk0uL-jEtKJiJpFdBC4QuCaLjuInFGX1hlE3qWvLX3XazPzy2bmK15_k5zXNGrld_Dk11Fp7cwRg_CER8_luSF_HHQOQ57BPmVJT-XeTI0oAGRTYzn77zU1kLN0hTFzEM8tIZnE-Kesd1TqfEmfJ6L3057MSiRlWsexDuhMKa7jnBhAKpmZaXx0ql72S5f3hPFYLrg8k188iGf9c-XZ6XAN6swwoqzH2ENIq9dlDwMGkG6aLm6o3g4hEMjONOIpbTbCQLXst1Sq3ChMtivtevg96-GfONIURoIhe8QywGCwJZY4L_wAhrTmgukXa8syxqXx1LI4NUhNPrNcpY8-EurE9wuF-236hmGB2asKubEfft12Plu7tzkada-a9FLje5hdUtqxaqpTNX67WmyZxoHkvoC78Cx9N0Se3mZyZGA-F3ZplBf8XSWUBSvzgsQCHGHLGdq2RlB0oA3SAcVh0ou8XP-noPr3F5i0vhpuC, RBXSessionTracker=sessionid=48916139-b5c4-4354-8ed6-d5af7303de32, RBXEventTrackerV2=CreateDate=02/18/2026 05:57:43&rbxid=10533236298&browserid=1759587403750002"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "text/javascript",
+      "date": "Wed, 18 Feb 2026 11:58:50 GMT",
+      "server": "public-gateway",
+      "content-length": "6934",
+      "roblox-machine-id": "4df99d1a-2df1-b290-9023-ed10402b42dd",
+      "x-envoy-upstream-service-time": "216",
+      "x-terms-message": "Terms apply https://rblx.co/TOU.",
+      "strict-transport-security": "max-age=3600",
+      "x-ratelimit-limit": "100, 100;w=60, 100;w=60, 100;w=60",
+      "x-ratelimit-remaining": "96",
+      "x-ratelimit-reset": "9",
+      "x-ingress-proxy": "true",
+      "x-roblox-edge": "c117",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1}"
+    },
+    "body": "(()=>{ChefScript.prelude.nonce=\"be26277c-2992-422e-8ab8-51ae1524a7cf\";ChefScript.prelude[\"uRVyxsm\"]=\"uRVyxsm\";ChefScript.prelude[\"KNpTHBH\"]=\"KNpTHBH\";ChefScript.prelude[\"OObNMlf\"]=\"OObNMlf\";function a0_0x2769(_0x5c8f85,_0x7fbec){var _0x10b9b0=a0_0x10b9();return a0_0x2769=function(_0x276957,_0x9e68d8){_0x276957=_0x276957-0x1e0;var _0x416330=_0x10b9b0[_0x276957];return _0x416330;},a0_0x2769(_0x5c8f85,_0x7fbec);}(function(_0x18886e,_0x147266){var _0x2e9328=a0_0x2769,_0x9d27e6=_0x18886e();while(!![]){try{var _0x23463c=-parseInt(_0x2e9328(0x208))/0x1+parseInt(_0x2e9328(0x1f2))/0x2*(parseInt(_0x2e9328(0x210))/0x3)+parseInt(_0x2e9328(0x1e4))/0x4*(parseInt(_0x2e9328(0x1f4))/0x5)+parseInt(_0x2e9328(0x1ef))/0x6*(-parseInt(_0x2e9328(0x1fa))/0x7)+parseInt(_0x2e9328(0x203))/0x8+parseInt(_0x2e9328(0x1ec))/0x9+parseInt(_0x2e9328(0x1ed))/0xa*(-parseInt(_0x2e9328(0x1e5))/0xb);if(_0x23463c===_0x147266)break;else _0x9d27e6['push'](_0x9d27e6['shift']());}catch(_0x327aa3){_0x9d27e6['push'](_0x9d27e6['shift']());}}}(a0_0x10b9,0x593e4),((()=>{'use strict';!(function(){var _0x108cb8=a0_0x2769,_0x18e4f=(function(){var _0x44cd0e=a0_0x2769,_0x1a4a91,_0x2a2d69=window['location'],_0x5b669f=_0x2a2d69[_0x44cd0e(0x205)],_0x48e1f3=_0x2a2d69['pathname'];if(_0x5b669f[_0x44cd0e(0x1fd)](_0x44cd0e(0x1e0)))_0x1a4a91='apis.sitetest1.robloxlabs.com';else{if(_0x5b669f[_0x44cd0e(0x1fd)](_0x44cd0e(0x1f3)))_0x1a4a91=_0x44cd0e(0x200);else{if(_0x5b669f[_0x44cd0e(0x1fd)](_0x44cd0e(0x20d)))_0x1a4a91=_0x44cd0e(0x209);else{if(!_0x5b669f['includes'](_0x44cd0e(0x1f1)))return'';_0x1a4a91=_0x44cd0e(0x1f7);}}}return'https://'[_0x44cd0e(0x20f)](_0x1a4a91,_0x44cd0e(0x1ff))[_0x44cd0e(0x20f)](encodeURIComponent(_0x48e1f3));}());if(_0x18e4f){var _0x500e72={'method':_0x108cb8(0x1fc),'headers':{'Content-Type':_0x108cb8(0x1f8)}},_0x6b1da9=function(){return _0x6b29fb=void 0x0,_0x1104a=void 0x0,_0x2faef4=function(){var _0xd8a8ea,_0x579ff0,_0x7d382c;return function(_0x37c27b,_0x909e57){var _0x4a0947=a0_0x2769,_0x182613,_0x31b4c0,_0x1baf23,_0x32b31c={'label':0x0,'sent':function(){if(0x1&_0x1baf23[0x0])throw _0x1baf23[0x1];return _0x1baf23[0x1];},'trys':[],'ops':[]},_0x365b6a=Object['create']((_0x4a0947(0x20b)==typeof Iterator?Iterator:Object)[_0x4a0947(0x201)]);return _0x365b6a[_0x4a0947(0x1f9)]=_0x38da79(0x0),_0x365b6a['throw']=_0x38da79(0x1),_0x365b6a[_0x4a0947(0x1ea)]=_0x38da79(0x2),'function'==typeof Symbol&&(_0x365b6a[Symbol[_0x4a0947(0x211)]]=function(){return this;}),_0x365b6a;function _0x38da79(_0x47a9e4){return function(_0x517a87){return function(_0x8ed2a5){var _0x5a85b4=a0_0x2769;if(_0x182613)throw new TypeError(_0x5a85b4(0x1fb));for(;_0x365b6a&&(_0x365b6a=0x0,_0x8ed2a5[0x0]&&(_0x32b31c=0x0)),_0x32b31c;)try{if(_0x182613=0x1,_0x31b4c0&&(_0x1baf23=0x2&_0x8ed2a5[0x0]?_0x31b4c0[_0x5a85b4(0x1ea)]:_0x8ed2a5[0x0]?_0x31b4c0[_0x5a85b4(0x1e1)]||((_0x1baf23=_0x31b4c0[_0x5a85b4(0x1ea)])&&_0x1baf23[_0x5a85b4(0x206)](_0x31b4c0),0x0):_0x31b4c0[_0x5a85b4(0x1f9)])&&!(_0x1baf23=_0x1baf23[_0x5a85b4(0x206)](_0x31b4c0,_0x8ed2a5[0x1]))[_0x5a85b4(0x1e9)])return _0x1baf23;switch(_0x31b4c0=0x0,_0x1baf23&&(_0x8ed2a5=[0x2&_0x8ed2a5[0x0],_0x1baf23[_0x5a85b4(0x1f6)]]),_0x8ed2a5[0x0]){case 0x0:case 0x1:_0x1baf23=_0x8ed2a5;break;case 0x4:return _0x32b31c[_0x5a85b4(0x1f0)]++,{'value':_0x8ed2a5[0x1],'done':!0x1};case 0x5:_0x32b31c[_0x5a85b4(0x1f0)]++,_0x31b4c0=_0x8ed2a5[0x1],_0x8ed2a5=[0x0];continue;case 0x7:_0x8ed2a5=_0x32b31c[_0x5a85b4(0x1e8)][_0x5a85b4(0x1eb)](),_0x32b31c['trys'][_0x5a85b4(0x1eb)]();continue;default:if(!((_0x1baf23=(_0x1baf23=_0x32b31c[_0x5a85b4(0x20a)])[_0x5a85b4(0x207)]>0x0&&_0x1baf23[_0x1baf23['length']-0x1])||0x6!==_0x8ed2a5[0x0]&&0x2!==_0x8ed2a5[0x0])){_0x32b31c=0x0;continue;}if(0x3===_0x8ed2a5[0x0]&&(!_0x1baf23||_0x8ed2a5[0x1]>_0x1baf23[0x0]&&_0x8ed2a5[0x1]<_0x1baf23[0x3])){_0x32b31c['label']=_0x8ed2a5[0x1];break;}if(0x6===_0x8ed2a5[0x0]&&_0x32b31c[_0x5a85b4(0x1f0)]<_0x1baf23[0x1]){_0x32b31c['label']=_0x1baf23[0x1],_0x1baf23=_0x8ed2a5;break;}if(_0x1baf23&&_0x32b31c[_0x5a85b4(0x1f0)]<_0x1baf23[0x2]){_0x32b31c[_0x5a85b4(0x1f0)]=_0x1baf23[0x2],_0x32b31c[_0x5a85b4(0x1e8)][_0x5a85b4(0x1ee)](_0x8ed2a5);break;}_0x1baf23[0x2]&&_0x32b31c[_0x5a85b4(0x1e8)][_0x5a85b4(0x1eb)](),_0x32b31c[_0x5a85b4(0x20a)][_0x5a85b4(0x1eb)]();continue;}_0x8ed2a5=_0x909e57['call'](_0x37c27b,_0x32b31c);}catch(_0x44463c){_0x8ed2a5=[0x6,_0x44463c],_0x31b4c0=0x0;}finally{_0x182613=_0x1baf23=0x0;}if(0x5&_0x8ed2a5[0x0])throw _0x8ed2a5[0x1];return{'value':_0x8ed2a5[0x0]?_0x8ed2a5[0x1]:void 0x0,'done':!0x0};}([_0x47a9e4,_0x517a87]);};}}(this,function(_0x2c1b0d){var _0xbd02f2=a0_0x2769;switch(_0x2c1b0d[_0xbd02f2(0x1f0)]){case 0x0:return _0x2c1b0d['trys'][_0xbd02f2(0x1ee)]([0x0,0x3,,0x4]),[0x4,fetch(_0x18e4f,_0x500e72)];case 0x1:return[0x4,_0x2c1b0d[_0xbd02f2(0x20c)]()[_0xbd02f2(0x1e3)]()];case 0x2:return _0xd8a8ea=_0x2c1b0d[_0xbd02f2(0x20c)](),(_0x579ff0=document['createElement'](_0xbd02f2(0x1e6)))['textContent']=_0xd8a8ea,document[_0xbd02f2(0x1fe)][_0xbd02f2(0x204)](_0x579ff0),[0x3,0x4];case 0x3:return _0x7d382c=_0x2c1b0d['sent'](),console[_0xbd02f2(0x202)](_0xbd02f2(0x1e7),_0x7d382c instanceof Error?_0x7d382c['message']:JSON[_0xbd02f2(0x20e)](_0x7d382c)),[0x3,0x4];case 0x4:return[0x2];}});},new((_0x73ae76=void 0x0)||(_0x73ae76=Promise))(function(_0x1cc392,_0x32d6b3){var _0x369afd=a0_0x2769;function _0x5ca416(_0x3e53a2){var _0x23e68c=a0_0x2769;try{_0x5da794(_0x2faef4[_0x23e68c(0x1f9)](_0x3e53a2));}catch(_0x2d5a32){_0x32d6b3(_0x2d5a32);}}function _0x5a6bcc(_0x48f908){try{_0x5da794(_0x2faef4['throw'](_0x48f908));}catch(_0x305d9e){_0x32d6b3(_0x305d9e);}}function _0x5da794(_0x5f56e9){var _0x5e304c=a0_0x2769,_0x202afb;_0x5f56e9[_0x5e304c(0x1e9)]?_0x1cc392(_0x5f56e9['value']):(_0x202afb=_0x5f56e9['value'],_0x202afb instanceof _0x73ae76?_0x202afb:new _0x73ae76(function(_0x282eaa){_0x282eaa(_0x202afb);}))[_0x5e304c(0x1f5)](_0x5ca416,_0x5a6bcc);}_0x5da794((_0x2faef4=_0x2faef4[_0x369afd(0x212)](_0x6b29fb,_0x1104a||[]))[_0x369afd(0x1f9)]());});var _0x6b29fb,_0x1104a,_0x73ae76,_0x2faef4;};_0x108cb8(0x1e2)in window?window[_0x108cb8(0x1e2)](_0x6b1da9,{'timeout':0x1388}):setTimeout(_0x6b1da9,0x1388);}}());})()));function a0_0x10b9(){var _0x323285=['Generator is\u00c8\u008already\u00c8\u008executing.','GET','includes','head','/rotating-client-service/v1/defer/raven?pathname=','apis.sitetest2.robloxlabs.com','prototype','error','181960UJFweH','appendChild','hostname','call','length','268188ckIMYN','apis.sitetest3.robloxlabs.com','trys','function','sent','sitetest3.robloxlabs.com','stringify','concat','396099gcDbrk','iterator','apply','sitetest1.robloxlabs.com','throw','requestIdleCallback','text','991828DDGiGq','2475KXfMgS','script','Error in\u00e2\u0083\u009eferred request:','ops','done','return','pop','2299797yIlmOa','16900OblsUP','push','12oQuWcW','label','roblox.com','8oYloJy','sitetest2.robloxlabs.com','10HvqeFE','then','value','apis.roblox.com','text/javascript','next','1009211vVAKKQ'];a0_0x10b9=function(){return _0x323285;};return a0_0x10b9();}})();"
+  }
+}

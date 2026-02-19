@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:08.616931",
+      "end": "2026-02-18T19:59:09.537302",
+      "duration_ms": 920
+    },
+    "url": {
+      "full": "https://js.rbxcdn.com/dac628a9b97ea4df1d0ae1fa256c201cb3b594a75108dedee58759e476c7ffd2.js",
+      "protocol": "https",
+      "domain": "js.rbxcdn.com",
+      "path": "/dac628a9b97ea4df1d0ae1fa256c201cb3b594a75108dedee58759e476c7ffd2.js",
+      "normalized_path": "/dac628a9b97ea4df1d0ae1fa256c201cb3b594a75108dedee58759e476c7ffd2.js",
+      "query": {}
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 931,
+      "compressed": true
+    },
+    "content_type": "application/javascript",
+    "cache_status": "public, max-age=31536000"
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "script",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=2"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "application/javascript",
+      "date": "Sat, 16 Aug 2025 13:22:35 GMT",
+      "last-modified": "Mon, 28 Oct 2024 21:15:36 GMT",
+      "content-encoding": "gzip",
+      "x-amz-server-side-encryption": "AES256",
+      "cache-control": "public, max-age=31536000",
+      "x-amz-version-id": "VVzGzqTtESEWgbFFO_QvmLriXTMAAckP",
+      "server": "AmazonS3",
+      "etag": "W/\"a9460e428506b4544162303082d5f28d\"",
+      "vary": "accept-encoding, Origin",
+      "x-cache": "Hit from cloudfront",
+      "via": "1.1 1b7c94274bd830ddf26396883b21ed8a.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P1",
+      "x-amz-cf-id": "k6QtfuauTvX00Gp7WJw9HmMY_l8XPQYvoe-x-mtZu9CVyt1E7e2RPw==",
+      "age": "16065396",
+      "rbx-cdn-provider": "aws",
+      "timing-allow-origin": "*",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0,\"failure_fraction\":0.05,\"response_headers\":[\"Rbx-Cdn-Provider\",\"vary\"]}",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P1\",cdn-rid;desc=\"k6QtfuauTvX00Gp7WJw9HmMY_l8XPQYvoe-x-mtZu9CVyt1E7e2RPw==\",cdn-hit-layer;desc=\"EDGE\",cdn-downstream-fbl;dur=2"
+    },
+    "body": "var Roblox = Roblox || {};\nRoblox.LangDynamic = Roblox.LangDynamic || {};\nRoblox.LangDynamic[\"Feature.SessionManagement\"] = {\"Action.ShowMore\":\"Show More\",\"Action.Cancel\":\"Cancel\",\"Header.YourSession\":\"Your Session\",\"Label.ApproximateLocationAndTimestamp\":\"Regional location and last active timestamp for each session are approximations and should only be used as rough guidelines.\",\"Label.DeviceDetails\":\"DEVICE DETAILS\",\"Label.Location\":\"REGIONAL LOCATION\",\"Label.LastActive\":\"LAST ACTIVE\",\"Label.Value.Unknown\":\"Unknown\",\"Label.Value.RobloxApp\":\"Roblox {OS} App\",\"Label.Value.RobloxAppOSUnknown\":\"Roblox App\",\"Label.Value.Browser\":\"Browser\",\"Label.Value.BrowserWithOSInfo\":\"Browser on {OS}\",\"Label.Value.BrowserWithOSandBrowserInfo\":\"{Browser} on {OS}\",\"Label.Value.Studio\":\"Roblox Studio\",\"Label.Value.StudioWithOS\":\"Roblox Studio on {OS}\",\"Label.Value.Location\":\"{city}, {subdivision}, {country}\",\"Label.Value.LocationMissingOne\":\"{cityOrSubdivision}, {subdivisionOrCountry}\",\"Label.Value.LocationMissingTwo\":\"{cityOrSubdivisionOrCountry}\",\"Label.Value.ThisSession\":\"This Session\",\"Action.PleaseTryAgain\":\"Please try again.\",\"Message.Error.Default\":\"An unknown error occured.\",\"Label.Value.UnknownDevice\":\"Unknown Device\",\"Label.Value.UnknownLocation\":\"Unknown Regional Location\",\"Label.Value.UnknownTime\":\"Unknown Time\",\"Label.Value.UnknownWithCount\":\"Unknown ({Count})\",\"Action.LogOutOfUnknownSessions\":\"Log Out of Unknown Sessions\",\"Header.UnknownInfo\":\"Info\",\"Description.OldSessionsWithUnknownData\":\"These are old sessions with unknown data. They will be updated if there is new activity.\",\"Action.LogOut\":\"Log Out\",\"Action.LogOutAllSessions\":\"Log Out of All Other Sessions\",\"Action.LogOutOfSession\":\"Log Out of Session\",\"Description.CurrentlyLoggedIn\":\"These are all the places you're currently logged into your Roblox account.\",\"Description.YouWillBeLoggedOut\":\"You will be logged out of the selected session. Are you sure?\",\"Description.YouWillBeLoggedOutAllSessions\":\"You will be logged out of all other sessions. Are you sure?\",\"Header.LogOutAllSessions\":\"Log Out of All Other Sessions\",\"Header.LogOutOfSession\":\"Log Out of Session\",\"Header.WhereYoureLoggedIn\":\"Where You're Logged In\",\"Description.ConsoleLogoutDisclaimer\":\"To log out of console, you must use the Disconnect button above.\"};\nwindow.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected(\"DynamicLocalizationResourceScript_Feature.SessionManagement\");\n"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:57:39.892360",
+      "end": "2026-02-18T19:57:40.953261",
+      "duration_ms": 1060
+    },
+    "url": {
+      "full": "https://arkoselabs.roblox.com/metrics/ui",
+      "protocol": "https",
+      "domain": "arkoselabs.roblox.com",
+      "path": "/metrics/ui",
+      "normalized_path": "/{slug}/ui",
+      "query": {}
+    },
+    "method": "POST",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 579,
+      "response_bytes": 3,
+      "compressed": false
+    },
+    "content_type": "text/plain;charset=UTF-8",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "content-length": "579",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "*/*",
+      "origin": "https://www.roblox.com",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=1, i"
+    },
+    "payload": "{\"id\":\"9b3e5af8-a71a-4eca-b5a9-415dea8c5298\",\"publicKey\":\"476068BF-9607-4799-B53D-966BE98E2B81\",\"isKeyless\":false,\"capiVersion\":\"4.0.14\",\"mode\":\"lightbox\",\"suppressed\":false,\"device\":{\"platform\":\"Linux armv81\",\"language\":\"en-US\",\"connection\":{\"effectiveType\":\"3g\",\"rtt\":600,\"downlink\":1.35}},\"warning\":{},\"error\":{},\"windowError\":{},\"sessionId\":\"4881895554c448373.7161280104\",\"locationOrigin\":\"https://www.roblox.com\",\"locationPathname\":\"/Login\",\"timers\":{\"onComplete\":{\"start\":1771415813960,\"end\":1771415859883,\"diff\":45923,\"metrics\":{}}},\"sampled\":true,\"waitForSettings\":false}"
+  },
+  "response": {
+    "headers": {
+      "content-type": "text/plain;charset=UTF-8",
+      "content-length": "3",
+      "server": "cloudfront",
+      "date": "Wed, 18 Feb 2026 11:57:42 GMT",
+      "access-control-allow-origin": "*",
+      "x-cache": "Miss from cloudfront",
+      "via": "1.1 290fb8f232fd7e8c27a6da64d8252058.cloudfront.net (CloudFront)",
+      "x-amz-cf-pop": "MNL51-P2",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-amz-cf-id": "VZvo8X9vl85l5pW824qYDrqQRzTAhHZtTopYdLUst7Qp2O6Z5lpsXQ==",
+      "x-xss-protection": "1; mode=block",
+      "referrer-policy": "strict-origin-when-cross-origin",
+      "x-content-type-options": "nosniff",
+      "strict-transport-security": "max-age=31536000; includeSubDomains",
+      "accept-ch": "Device-Memory, Sec-CH-UA, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-DPR, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-Viewport-Width, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-Width, Sec-CH-UA-Form-Factors",
+      "server-timing": "cdn-cache-hit,cdn-pop;desc=\"MNL51-P2\",cdn-rid;desc=\"VZvo8X9vl85l5pW824qYDrqQRzTAhHZtTopYdLUst7Qp2O6Z5lpsXQ==\",cdn-hit-layer;desc=\"REC\",cdn-downstream-fbl;dur=908"
+    },
+    "body": "OK."
+  }
+}

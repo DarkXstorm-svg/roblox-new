@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:59:22.234005",
+      "end": "2026-02-18T19:59:22.481581",
+      "duration_ms": 247
+    },
+    "url": {
+      "full": "https://m.stripe.com/6",
+      "protocol": "https",
+      "domain": "m.stripe.com",
+      "path": "/6",
+      "normalized_path": "/6",
+      "query": {}
+    },
+    "method": "POST",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 3164,
+      "response_bytes": 156,
+      "compressed": false
+    },
+    "content_type": "application/json;charset=utf-8",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "content-length": "3164",
+      "sec-ch-ua-platform": "\"Android\"",
+      "user-agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "content-type": "text/plain;charset=UTF-8",
+      "sec-ch-ua-mobile": "?1",
+      "accept": "*/*",
+      "origin": "https://m.stripe.network",
+      "sec-fetch-site": "cross-site",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-storage-access": "none",
+      "referer": "https://m.stripe.network/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "priority": "u=1, i"
+    },
+    "payload": "JTdCJTIydjIlMjIlM0ExJTJDJTIyaWQlMjIlM0ElMjI4MWE4NzAyMTg5YWJjYjE4N2RkZTcxMzUwNzBkZmJmOCUyMiUyQyUyMnQlMjIlM0E4MC43JTJDJTIydGFnJTIyJTNBJTIyJTI0bnBtX3BhY2thZ2VfdmVyc2lvbiUyMiUyQyUyMnNyYyUyMiUzQSUyMmpzJTIyJTJDJTIyYSUyMiUzQSU3QiUyMmElMjIlM0ElN0IlMjJ2JTIyJTNBJTIydHJ1ZSUyMiUyQyUyMnQlMjIlM0EwLjElN0QlMkMlMjJiJTIyJTNBJTdCJTIydiUyMiUzQSUyMmZhbHNlJTIyJTJDJTIydCUyMiUzQTAlN0QlMkMlMjJjJTIyJTNBJTdCJTIydiUyMiUzQSUyMmVuLVVTJTJDZW4lMkNmaWwlMjIlMkMlMjJ0JTIyJTNBMC4xJTdEJTJDJTIyZCUyMiUzQSU3QiUyMnYlMjIlM0ElMjJMaW51eCUyMGFybXY4MSUyMiUyQyUyMnQlMjIlM0EwLjElN0QlMkMlMjJlJTIyJTNBJTdCJTIydiUyMiUzQSUyMiUyMiUyQyUyMnQlMjIlM0ExJTdEJTJDJTIyZiUyMiUzQSU3QiUyMnYlMjIlM0ElMjIzNjB3XzgwNmhfMjRkXzJyJTIyJTJDJTIydCUyMiUzQTAuMSU3RCUyQyUyMmclMjIlM0ElN0IlMjJ2JTIyJTNBJTIyOCUyMiUyQyUyMnQlMjIlM0EwLjElN0QlMkMlMjJoJTIyJTNBJTdCJTIydiUyMiUzQSUyMnRydWUlMjIlMkMlMjJ0JTIyJTNBMCU3RCUyQyUyMmklMjIlM0ElN0IlMjJ2JTIyJTNBJTIyc2Vzc2lvblN0b3JhZ2UtZW5hYmxlZCUyQyUyMGxvY2FsU3RvcmFnZS1lbmFibGVkJTIyJTJDJTIydCUyMiUzQTExLjElN0QlMkMlMjJqJTIyJTNBJTdCJTIydiUyMiUzQSUyMjAwMDAwMDAxMDAwMDAwMDAwMDAxMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMTAxMTAxMTAlMjIlMkMlMjJ0JTIyJTNBNjEuNyUyQyUyMmF0JTIyJTNBNC4zJTdEJTJDJTIyayUyMiUzQSU3QiUyMnYlMjIlM0ElMjIlMjIlMkMlMjJ0JTIyJTNBMCU3RCUyQyUyMmwlMjIlM0ElN0IlMjJ2JTIyJTNBJTIyTW96aWxsYSUyRjUuMCUyMChMaW51eCUzQiUyMEFuZHJvaWQlMjAxMCUzQiUyMEspJTIwQXBwbGVXZWJLaXQlMkY1MzcuMzYlMjAoS0hUTUwlMkMlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lJTJGMTQ0LjAuMC4wJTIwTW9iaWxlJTIwU2FmYXJpJTJGNTM3LjM2JTIyJTJDJTIydCUyMiUzQTAuMSU3RCUyQyUyMm0lMjIlM0ElN0IlMjJ2JTIyJTNBJTIyJTIyJTJDJTIydCUyMiUzQTIuNyU3RCUyQyUyMm4lMjIlM0ElN0IlMjJ2JTIyJTNBJTIyZmFsc2UlMjIlMkMlMjJ0JTIyJTNBNTEuMyUyQyUyMmF0JTIyJTNBMC45JTdEJTJDJTIybyUyMiUzQSU3QiUyMnYlMjIlM0ElMjI1YjEyODJiZWU2NDRkOWEyYmRhMWU1YzcxZDIxYWJlNSUyMiUyQyUyMnQlMjIlM0E0NC4zJTdEJTdEJTJDJTIyYiUyMiUzQSU3QiUyMmElMjIlM0ElMjJodHRwcyUzQSUyRiUyRlhfdldPcFlRdzJ5aW1QemEybGRpbHNzWjFWZ2xBaDZWM2h4a1RUY2ttMTQuMkVxUjN1bXh0U05Zbmo3bU1jMHRlR09sMzdXSGw1RmFtRGdXQlF2RXo0cy5nMnU5LWhxWnZHSXFZSmNQbFBmd0pBZi12M1JneUtfeDFOcHB6QWxBMTJNJTJGZVRoY0Rwa2JjQlI1cmhCSkhnZ0paRjM1eGdYeUJLQVQ5Mjk1b3ZIOFNTUSUyRkpKYWlXMkFyZkM3V196OGs2REhjLXFGSFBRVDMyQll4dzFZN2U0OGVTSjAlMjIlMkMlMjJiJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZYX3ZXT3BZUXcyeWltUHphMmxkaWxzc1oxVmdsQWg2VjNoeGtUVGNrbTE0LjJFcVIzdW14dFNOWW5qN21NYzB0ZUdPbDM3V0hsNUZhbURnV0JRdkV6NHMuZzJ1OS1ocVp2R0lxWUpjUGxQZndKQWYtdjNSZ3lLX3gxTnBwekFsQTEyTSUyRlY5Q0Rlczh6SDBETHF3T0Q3TVNxZE1hLTNGcEdtLWhGRGc1dU5JbUoxN1UlMkZyTDVsX0h2Z2lzbm9MaXdOZ0JNUElkQ0pDa2ZLV0NZT1MwLTNxSVJjcU9RJTIzISUyRlVhY05LRndZNjMxNzltUjgzTzJSVjFOTUZBYzNYUllHbUp2TzViWDYtNGclMjIlMkMlMjJjJTIyJTNBJTIybi1GUXRoS05YOHlibkNfWjZselk3ZWFFZFpiWG8wLWQxckJ5VDc0OFhOVSUyMiUyQyUyMmQlMjIlM0ElMjIyMjE2ZGI1MS01NGNlLTRhNzUtODdiZC05NjFhZWI2YmQ2NjBiMDliNTIlMjIlMkMlMjJlJTIyJTNBJTIyTkElMjIlMkMlMjJmJTIyJTNBZmFsc2UlMkMlMjJnJTIyJTNBdHJ1ZSUyQyUyMmglMjIlM0F0cnVlJTJDJTIyaSUyMiUzQSU1QiUyMmxvY2F0aW9uJTIyJTVEJTJDJTIyaiUyMiUzQSU1QiU1RCUyQyUyMm4lMjIlM0ExMTQzLjgwMDAwMDAxMTkyMSUyQyUyMnUlMjIlM0ElMjJ3d3cucm9ibG94LmNvbSUyMiUyQyUyMnYlMjIlM0ElMjJ3d3cucm9ibG94LmNvbSUyMiUyQyUyMnclMjIlM0ElMjIxNzcxNDE1OTU2MTIzJTNBNzMxOTgzZjBlNzk4NzUxZTg4NDFmNGY0Njg1MDJhODlmNjE0MjU2MGZiOWMzZmQyYTk2NjJjNDUxYTJkZGNlOSUyMiU3RCUyQyUyMmglMjIlM0ElMjIzOGM2ZmU2NGIxYjVmMmQ3NGUxMCUyMiU3RA=="
+  },
+  "response": {
+    "headers": {
+      "server": "nginx",
+      "date": "Wed, 18 Feb 2026 11:59:23 GMT",
+      "content-length": "156",
+      "set-cookie": "m=ad479a11-f256-4a16-9c19-859f4661496780c1e2;Expires=Fri, 18-Feb-2028 11:59:23 GMT;Secure;HttpOnly; SameSite=None",
+      "x-content-type-options": "nosniff",
+      "x-stripe-proxy-response": "upstream",
+      "x-stripe-server-rpc-duration-micros": "2511",
+      "access-control-allow-origin": "https://m.stripe.network",
+      "access-control-allow-credentials": "true",
+      "access-control-allow-headers": "Content-Type",
+      "strict-transport-security": "max-age=31556926; includeSubDomains; preload",
+      "content-type": "application/json;charset=utf-8"
+    },
+    "body": "{\"muid\":\"2216db51-54ce-4a75-87bd-961aeb6bd660b09b52\",\"guid\":\"ad479a11-f256-4a16-9c19-859f4661496780c1e2\",\"sid\":\"6ddc8639-d02a-416a-977b-40c3bc461a091a7fa4\"}"
+  }
+}

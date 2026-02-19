@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "timestamps": {
+      "start": "2026-02-18T19:57:49.913210",
+      "end": "2026-02-18T19:57:50.490669",
+      "duration_ms": 577
+    },
+    "url": {
+      "full": "https://ecsv2.roblox.com/www/e.png?btn=gameImpressions&rootPlaceIds=%5B4924922222%2C131623223084840%2C17625359962%2C119987266683883%2C119579217517090%2C134763881293027%2C8712817601%2C17612027930%2C136801880565837%2C10449761463%2C72845937010155%2C76490888522129%2C79546208627805%2C3351674303%2C109533024287077%5D&universeIds=%5B1686885941%2C9363735110%2C6035872082%2C9649298941%2C9513686983%2C9484779066%2C3310460039%2C6030909708%2C8795154789%2C3808081382%2C8365871374%2C9468765165%2C7326934954%2C1202096104%2C9626728130%5D&thumbnailAssetIds=%5B75230046804159%2C105381265602902%2C137672956001323%2C71833797852609%2C118811359335319%2C80961262969447%2C123904532369634%2C75725907722594%2C106510857018941%2C%220%22%2C134903136637031%2C103944918444736%2C116535880339481%2C83359973257666%2C86060167552370%5D&thumbnailListIds=%5B%2261952fd4-8e88-4001-bf74-f494425eb85b%22%2C%22ed2cd81b-7ae4-442e-b9f4-f64ab7af82c0%22%2C%22a9a4473a-e111-46eb-aec3-4a27f0165d00%22%2C%2240fcbdbe-0ff7-4c29-9b7b-fbd3d93ed947%22%2C%22f65a0568-9a98-44ad-9d85-1c46fa1b9429%22%2C%221be2d9db-d426-46c6-98d7-27b58683ffa6%22%2C%223abea674-9069-4c3f-8382-519af8a13b34%22%2C%22aaaf121d-265b-4c81-9b6f-979ef4536136%22%2C%22a733af0f-5b79-454e-b27d-443b36b4a216%22%2C%220%22%2C%22c8a7c9d1-a364-4af6-af6c-b2f78b4bbaa0%22%2C%223e6d7de1-1098-4d17-a134-e40a84f53a40%22%2C%222c1846b6-6b84-4fb6-91c1-a586b22d5b57%22%2C%2291f6da60-e8e0-400a-8af5-1b979d1b953b%22%2C%22de9d5aef-05e8-4266-b107-8473610f770f%22%5D&tileBadgeContexts=%5B%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%5D&navigationUids=%5B%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%2C%220%22%5D&absPositions=%5B0%2C1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%5D&rowsOnPage=%5B2%2C2%2C2%2C3%2C3%2C3%2C4%2C4%2C4%2C5%2C5%2C5%2C6%2C6%2C6%5D&positionsInRow=%5B0%2C1%2C2%2C0%2C1%2C2%2C0%2C1%2C2%2C0%2C1%2C2%2C0%2C1%2C2%5D&sortPos=2&numberOfLoadedTiles=200&gameSetTypeId=100000000&page=homePage&homePageSessionInfo=ad964a45-5102-4117-9791-8db665e6eea9&evt=gameImpressions&ctx=formInteraction&url=https%3A%2F%2Fwww.roblox.com%2Fhome&lt=2026-02-18T11%3A57%3A49.802Z&gid=-1784413165&sid=48916139-b5c4-4354-8ed6-d5af7303de32",
+      "protocol": "https",
+      "domain": "ecsv2.roblox.com",
+      "path": "/www/e.png",
+      "normalized_path": "/{slug}/e.png",
+      "query": {
+        "btn": [
+          "gameImpressions"
+        ],
+        "rootPlaceIds": [
+          "[4924922222,131623223084840,17625359962,119987266683883,119579217517090,134763881293027,8712817601,17612027930,136801880565837,10449761463,72845937010155,76490888522129,79546208627805,3351674303,109533024287077]"
+        ],
+        "universeIds": [
+          "[1686885941,9363735110,6035872082,9649298941,9513686983,9484779066,3310460039,6030909708,8795154789,3808081382,8365871374,9468765165,7326934954,1202096104,9626728130]"
+        ],
+        "thumbnailAssetIds": [
+          "[75230046804159,105381265602902,137672956001323,71833797852609,118811359335319,80961262969447,123904532369634,75725907722594,106510857018941,\"0\",134903136637031,103944918444736,116535880339481,83359973257666,86060167552370]"
+        ],
+        "thumbnailListIds": [
+          "[\"61952fd4-8e88-4001-bf74-f494425eb85b\",\"ed2cd81b-7ae4-442e-b9f4-f64ab7af82c0\",\"a9a4473a-e111-46eb-aec3-4a27f0165d00\",\"40fcbdbe-0ff7-4c29-9b7b-fbd3d93ed947\",\"f65a0568-9a98-44ad-9d85-1c46fa1b9429\",\"1be2d9db-d426-46c6-98d7-27b58683ffa6\",\"3abea674-9069-4c3f-8382-519af8a13b34\",\"aaaf121d-265b-4c81-9b6f-979ef4536136\",\"a733af0f-5b79-454e-b27d-443b36b4a216\",\"0\",\"c8a7c9d1-a364-4af6-af6c-b2f78b4bbaa0\",\"3e6d7de1-1098-4d17-a134-e40a84f53a40\",\"2c1846b6-6b84-4fb6-91c1-a586b22d5b57\",\"91f6da60-e8e0-400a-8af5-1b979d1b953b\",\"de9d5aef-05e8-4266-b107-8473610f770f\"]"
+        ],
+        "tileBadgeContexts": [
+          "[\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\"]"
+        ],
+        "navigationUids": [
+          "[\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\",\"0\"]"
+        ],
+        "absPositions": [
+          "[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14]"
+        ],
+        "rowsOnPage": [
+          "[2,2,2,3,3,3,4,4,4,5,5,5,6,6,6]"
+        ],
+        "positionsInRow": [
+          "[0,1,2,0,1,2,0,1,2,0,1,2,0,1,2]"
+        ],
+        "sortPos": [
+          "2"
+        ],
+        "numberOfLoadedTiles": [
+          "200"
+        ],
+        "gameSetTypeId": [
+          "100000000"
+        ],
+        "page": [
+          "homePage"
+        ],
+        "homePageSessionInfo": [
+          "ad964a45-5102-4117-9791-8db665e6eea9"
+        ],
+        "evt": [
+          "gameImpressions"
+        ],
+        "ctx": [
+          "formInteraction"
+        ],
+        "url": [
+          "https://www.roblox.com/home"
+        ],
+        "lt": [
+          "2026-02-18T11:57:49.802Z"
+        ],
+        "gid": [
+          "-1784413165"
+        ],
+        "sid": [
+          "48916139-b5c4-4354-8ed6-d5af7303de32"
+        ]
+      }
+    },
+    "method": "GET",
+    "status_code": 200,
+    "size": {
+      "request_bytes": 0,
+      "response_bytes": 68,
+      "compressed": false
+    },
+    "content_type": "image/png",
+    "cache_status": ""
+  },
+  "request": {
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"Not(A:Brand\";v=\"8\", \"Chromium\";v=\"144\", \"Google Chrome\";v=\"144\"",
+      "sec-ch-ua-mobile": "?0",
+      "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+      "sec-fetch-site": "same-site",
+      "sec-fetch-mode": "no-cors",
+      "sec-fetch-dest": "image",
+      "referer": "https://www.roblox.com/",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "accept-language": "en-US,en;q=0.9,fil;q=0.8",
+      "cookie": "GuestData=UserID=-1784413165, RBXcb=RBXViralAcquisition%3Dtrue%26RBXSource%3Dtrue%26GoogleAnalytics%3Dtrue, _ga=GA1.1.1224127167.1759628996, _ga_F8VP9T1NT3=GS2.1.s1759628996$o1$g0$t1759629006$j50$l0$h0, __utmz=200924205.1769790118.9.3.utmcsr=appsflyer|utmccn=(not%20set)|utmcmd=cpa|utmcct=onelink, _gcl_au=1.1.445633669.1770730834, _scid=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _scid_r=Wr9kCEc_3Nlyed1wABxVj3bEIIybNWtk, _fbp=fb.1.1770730835055.775171315334809685, _tt_enable_cookie=1, _ttp=01KH3WGKAR3H2AE8S5M5DX1J7W_.tt.1, ttcsid=1770730835310::miqHqGUEZxfvZ_nHbBwv.1.1770730835684.0, ttcsid_CSV31T3C77UDA0827220=1770730835307::XlXvMvpaVhbeZ9pnMwwy.1.1770730835685.0, _sctr=1%7C1770652800000, RBXSource=rbx_acquisition_time=02/10/2026 14:11:35&rbx_acquisition_referrer=&rbx_medium=cpa&rbx_source=appsflyer&rbx_campaign=onelink&rbx_adgroup=&rbx_keyword=&rbx_matchtype=&rbx_send_info=0, rbx-ip2=1, __utma=200924205.1785706367.1759587415.1770730834.1771414933.12, __utmb=200924205.0.10.1771414933, __utmc=200924205, RBXPaymentsFlowContext=6b863465-7439-4466-8678-42b7f0295720,, .ROBLOSECURITY=_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEaAhADIhwKBGR1aWQSFDE1OTA2NDcwMzY1NDI4MjU2MjQ3KAM.xpmWxSPlq0t9uEMRW5PZATvSqO4ZRcDpuXm3QmfIKp6xgv76-p4xSYZkFZbXRm6-GUSiw_hVJWODhKdk4tTkqbVnHKy_yyaFCxo32j-WAFHiOpMWpBhMyBapHtPI2TDaieMG9oxdFp0VeLKVDfRkgFFU9gZd5jPIT_44J83CJe_fxphtDk0mVnUmXQK9TY0aBRMmgmyXb0e4JALDO0zYWF9nachqvY45KGgzh6eTKE49bIWwMV4nIp_KQJXjcHHdGGrObJXSZ8nmAmT-q7sXqdVIL4-A75KPfKzfyeQTEwx-3NYbJ81Y9UH8_NE9hENbxd__tWB1gk0uL-jEtKJiJpFdBC4QuCaLjuInFGX1hlE3qWvLX3XazPzy2bmK15_k5zXNGrld_Dk11Fp7cwRg_CER8_luSF_HHQOQ57BPmVJT-XeTI0oAGRTYzn77zU1kLN0hTFzEM8tIZnE-Kesd1TqfEmfJ6L3057MSiRlWsexDuhMKa7jnBhAKpmZaXx0ql72S5f3hPFYLrg8k188iGf9c-XZ6XAN6swwoqzH2ENIq9dlDwMGkG6aLm6o3g4hEMjONOIpbTbCQLXst1Sq3ChMtivtevg96-GfONIURoIhe8QywGCwJZY4L_wAhrTmgukXa8syxqXx1LI4NUhNPrNcpY8-EurE9wuF-236hmGB2asKubEfft12Plu7tzkada-a9FLje5hdUtqxaqpTNX67WmyZxoHkvoC78Cx9N0Se3mZyZGA-F3ZplBf8XSWUBSvzgsQCHGHLGdq2RlB0oA3SAcVh0ou8XP-noPr3F5i0vhpuC, RBXSessionTracker=sessionid=48916139-b5c4-4354-8ed6-d5af7303de32, RBXEventTrackerV2=CreateDate=02/18/2026 05:57:43&rbxid=10533236298&browserid=1759587403750002",
+      "priority": "i"
+    },
+    "payload": null
+  },
+  "response": {
+    "headers": {
+      "content-type": "image/png",
+      "date": "Wed, 18 Feb 2026 11:57:51 GMT",
+      "content-length": "68",
+      "x-envoy-upstream-service-time": "200",
+      "server": "public-gateway",
+      "x-terms-message": "Terms apply https://rblx.co/TOU.",
+      "strict-transport-security": "max-age=3600",
+      "x-ratelimit-limit": "1500, 1500;w=60, 1500;w=60, 1500;w=60",
+      "x-ratelimit-remaining": "1492",
+      "x-ratelimit-reset": "9",
+      "x-ingress-proxy": "true",
+      "x-roblox-edge": "c090",
+      "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ncs.roblox.com/upload\"}]}",
+      "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1}"
+    },
+    "body": "\u0089PNG\r\n\u001a\n\u0000\u0000\u0000\rIHDR\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\b\u0004\u0000\u0000\u0000\u00b5\u001c\f\u0002\u0000\u0000\u0000\u000bIDAT\u0018Wc``\u0000\u0000\u0000\u0003\u0000\u0001h&Y\r\u0000\u0000\u0000\u0000IEND\u00aeB`\u0082"
+  }
+}
